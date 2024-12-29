@@ -11,12 +11,12 @@ class ProxyConfig:
     def __init__(self):
         self.TELEGRAM_CHANNELS = [
             ChannelConfig("https://t.me/s/v2ray_free_conf"),
-            ChannelConfig("https://t.me/s/v2rayngvpn"),
+            ChannelConfig("https://t.me/s/ShadowProxy66"),
             ChannelConfig("https://t.me/s/V2ray_Alpha"),
-            ChannelConfig("https://t.me/s/SvnV2ray"), 
-            ChannelConfig("https://t.me/s/RadixVPN"),
+            ChannelConfig("https://t.me/s/sinabigo"), 
+            ChannelConfig("https://t.me/s/mtproxy_lists"),
             ChannelConfig("https://t.me/s/PrivateVPNs"),
-            ChannelConfig("https://t.me/s/VlessConfig"),
+            ChannelConfig("https://t.me/s/IrdrapVPNnews"),
             ChannelConfig("https://t.me/s/freewireguard")
         ]
 
