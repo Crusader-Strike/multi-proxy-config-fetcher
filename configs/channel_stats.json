@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-12-29T19:40:54.579514",
+  "timestamp": "2024-12-29T19:56:10.046892",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
@@ -8,7 +8,7 @@
       "success_rate": 100.0
     },
     {
-      "url": "https://t.me/s/v2rayngvpn",
+      "url": "https://t.me/s/ShadowProxy66",
       "enabled": true,
       "retry_count": 1,
       "success_rate": 50.0
@@ -20,13 +20,13 @@
       "success_rate": 100.0
     },
     {
-      "url": "https://t.me/s/SvnV2ray",
+      "url": "https://t.me/s/sinabigo",
       "enabled": true,
       "retry_count": 1,
       "success_rate": 50.0
     },
     {
-      "url": "https://t.me/s/RadixVPN",
+      "url": "https://t.me/s/mtproxy_lists",
       "enabled": true,
       "retry_count": 1,
       "success_rate": 50.0
@@ -38,7 +38,7 @@
       "success_rate": 100.0
     },
     {
-      "url": "https://t.me/s/VlessConfig",
+      "url": "https://t.me/s/IrdrapVPNnews",
       "enabled": true,
       "retry_count": 1,
       "success_rate": 50.0

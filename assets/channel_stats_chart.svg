@@ -48,7 +48,7 @@
             <text x="187.5" y="380" 
                   transform="rotate(45, 187.5, 380)"
                   text-anchor="start" class="tick-label">
-                v2rayngvpn
+                ShadowProxy66
             </text>
             <text x="187.5" y="195.0" 
                   text-anchor="middle" class="tick-label">
@@ -76,7 +76,7 @@
             <text x="357.5" y="380" 
                   transform="rotate(45, 357.5, 380)"
                   text-anchor="start" class="tick-label">
-                SvnV2ray
+                sinabigo
             </text>
             <text x="357.5" y="195.0" 
                   text-anchor="middle" class="tick-label">
@@ -90,7 +90,7 @@
             <text x="442.5" y="380" 
                   transform="rotate(45, 442.5, 380)"
                   text-anchor="start" class="tick-label">
-                RadixVPN
+                mtproxy_lists
             </text>
             <text x="442.5" y="195.0" 
                   text-anchor="middle" class="tick-label">
@@ -118,7 +118,7 @@
             <text x="612.5" y="380" 
                   transform="rotate(45, 612.5, 380)"
                   text-anchor="start" class="tick-label">
-                VlessConfig
+                IrdrapVPNnews
             </text>
             <text x="612.5" y="195.0" 
                   text-anchor="middle" class="tick-label">
@@ -141,7 +141,7 @@
         </g>
         
         <text x="740" y="390" text-anchor="end" class="timestamp">
-            Last updated: 2024-12-29T19:40:54.579514
+            Last updated: 2024-12-29T19:56:10.046892
         </text>
     </svg>
     
