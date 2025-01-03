@@ -106,6 +106,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.188:
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjTjVSUlR3N3ZZYWRFZFJjZElkdWl4@94.131.97.22:5139#%40WiFi-%40V2ray_Alpha-6
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.181:8080#%F0%9F%87%B1%F0%9F%87%B9%20LT-45.87.175.181%3A8080 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#%40WiFi-%40V2ray_Alpha-3
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMDE5Yjg4ZS03YWY2LTQwMzgtODU3NC1iZmU4OGRhNGVkMjk%3D@146.190.91.101:30443#%40WiFi-%40V2ray_Alpha-8
@@ -117,8 +119,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmcXlVMVUyZGkyUVdnRkdyT2U4YUQ0@77.221.157.56:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnbVlEelNHNkszNXM4YjE5b1k0Zkd6@92.118.112.111:18622#%F0%9F%87%BA%F0%9F%87%B8%20US-92.118.112.111%3A18622 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#MCI-%40V2ray_Alpha-3
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#WiFi-%40V2ray_Alpha-1
 
 ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg@5.188.181.201:9031 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon62
 
