@@ -96,13 +96,13 @@ vmess://eyJhZGQiOiAiMTUxLjEwMS4yLjE2OCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6
 
 vmess://eyJhZGQiOiAiMTUxLjEwMS4yLjIxNiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJraGFtZW5laS0zMTMuSVIuIiwgImlkIjogIjU3MTM4OTdjLTQ2YjYtNDQxMS1hZDYwLTZjZGZlYzRlYWIwOCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvP2VkPTgwLyNpZC10ZWxlZ3JhbTotLS0+QHZwbl93aGFsPC0tLSIsICJwb3J0IjogIjgwIiwgInBzIjogIlx1ZDgzZFx1ZGQxMiBWTS1XUy1OQSBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMtMTUxLjEwMS4yLjIxNjo4MCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon49
 
-vmess://eyJhZGQiOiAiMTc4LjIzOS4xNTEuNzMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImVkMjZlNDM3LWFiYjAtNGNiOC05MjIxLWJlOWY2NTFmMmMyOSIsICJuZXQiOiAiZ3JwYyIsICJwYXRoIjogIiIsICJwb3J0IjogIjQzNjcxIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogImd1biIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLUdSUEMtTkEgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IElSLTE3OC4yMzkuMTUxLjczOjQzNjcxIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon50
-
-vmess://eyJhZGQiOiAiNDUuMTQ1LjE2NS4xMTMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiaG1zMTkuYmVzdC10aXppLnRvcCIsICJpZCI6ICI2MmFhNWY4MC0wMzI4LTQwMDQtYTM3NS03ZjVhNTlkZjQwMjIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt3cyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJDaGFubmVsIGlkOiBAU2hhZG93UHJveHk2NiBcdWQ4M2NcdWRkZWJcdWQ4M2NcdWRkZjciLCAic2N5IjogImF1dG8iLCAic25pIjogImhtczE5LmJlc3QtdGl6aS50b3AiLCAidGxzIjogInRscyIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ== Country: N/A Region: N/A City: N/A Zip Code: N/A ISP: N/A#Anon51
+vmess://eyJhZGQiOiAiNDUuMTQ1LjE2NS4xMTMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiaG1zMTkuYmVzdC10aXppLnRvcCIsICJpZCI6ICI2MmFhNWY4MC0wMzI4LTQwMDQtYTM3NS03ZjVhNTlkZjQwMjIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt3cyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJDaGFubmVsIGlkOiBAU2hhZG93UHJveHk2NiBcdWQ4M2NcdWRkZWJcdWQ4M2NcdWRkZjciLCAic2N5IjogImF1dG8iLCAic25pIjogImhtczE5LmJlc3QtdGl6aS50b3AiLCAidGxzIjogInRscyIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ== Country: N/A Region: N/A City: N/A Zip Code: N/A ISP: N/A#Anon50
 
 vmess://eyJhZGQiOiI3OS4xMjcuMjI5LjU0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjc2dvLm1vemlsbGEuNS4wLnhuLS0yYjViYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhLjEyNy4wLjAuMS5vZmZsaW5lc3BlZWR0ZXN0Lm5ldGRvd24udXNlci54bi0tMmI1YmFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWEuMC4yLjEueG4tLWo5aDEwMjhtcW1hb3l0aWkwMGFoYTIxaGZqcmQueG4tLW0zOWgudG9yLnJ1YmlrYS5jbG91ZG5zLmNoLiIsImlkIjoiZmExODk3ZGItMTkyNS00Yzg2LWE0OTUtOTM5YTk1OWFmOTAwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoiV2lGaS1AVjJyYXlfQWxwaGEtMTciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
 vmess://eyJhZGQiOiIxMy4yMTIuMTU0LjYwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJkMS5hd3NzdGF0aWMuY29tIiwiaWQiOiJkYjQwYWUwZC01NzE0LTRmN2YtODQ2ZC1lZGQyNGFkNmIzZDkiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL0hPTUVfTmV4dF9CdWlsZGVycy1MaWJyYXJ5Mi40N2FlOTA1MGY4OGU4ZjU5YTg4NzcwOWIzYzMzOGY1ODA0ZTFlMjQ4LmpwZyIsInBvcnQiOiI0NDMiLCJwcyI6IklSLUBWMnJheV9BbHBoYS0xMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+
+vmess://eyJhZGQiOiIxMy4yMTQuMTkzLjIzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJkMS5hd3NzdGF0aWMuY29tIiwiaWQiOiJkYjQwYWUwZC01NzE0LTRmN2YtODQ2ZC1lZGQyNGFkNmIzZDkiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL0hPTUVfTmV4dF9CdWlsZGVycy1MaWJyYXJ5Mi40N2FlOTA1MGY4OGU4ZjU5YTg4NzcwOWIzYzMzOGY1ODA0ZTFlMjQ4LmpwZyIsInBvcnQiOiI0NDMiLCJwcyI6IklSLUBWMnJheV9BbHBoYS0xMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 
 vmess://eyJhZGQiOiIxNTEuMTAxLjIuMTY4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJhbWQuYWwiLCJpZCI6ImJlYjdkMDk4LTQ4YmEtNGJlOC1hNDdhLTc1OGJmM2M0NzBiOCIsIm5ldCI6IndzIiwicGF0aCI6Ii8/ZWRcdTAwM2QyMDQ4IiwicG9ydCI6IjgwIiwicHMiOiJNQ0ktQFYycmF5X0FscGhhLTE0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 
@@ -120,11 +120,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmU0VQdFlEbXVCdTdabkZZWGRITXQx@89.185.84.185:
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMTNTN2RvWGFyMEE=@205.134.180.137:443#%40V2rayNG3
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnOUFKc3JCUGdXNE5oam95M3hDaW9D@45.87.175.164:8080#%40V2rayNG3
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#%40V2rayNG3
 
-ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ@5.188.181.201:9042 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon63
-
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.166.102:989#%F0%9F%87%AC%F0%9F%87%B7%20KITKAT%C2%B9%C2%B2 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ@5.188.181.201:9042 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon64
 
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@54.37.12.70:8000#https://t.me/ShadowsocksM
 
@@ -146,9 +146,13 @@ trojan://57c0ba73-b381-4fa6-aad0-f87c72a4d2d1@[2407:3640:2185:9595:0:1:c2d0:9336
 
 trojan://6518a1cf-a234-462d-9551-e02f95cc13eb@tr1-thcvpn.servehalflife.com:443?security=tls&headerType=none&type=tcp&sni=tr1.thcvpn.ip-ddns.com#Ir-%40V2ray_Alpha-3
 
+trojan://telegram-id-directvpn@3.66.81.140:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
 trojan://telegram-id-privatevpns@18.168.237.31:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S108)🇬🇧t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@18.175.78.252:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S107)🇬🇧t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
+
+trojan://telegram-id-privatevpns@18.196.171.212:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 trojan://telegram-id-privatevpns@3.124.103.204:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
@@ -162,11 +166,7 @@ trojan://telegram-id-privatevpns@35.181.221.89:22222?security=tls&alpn=http/1.1&
 
 trojan://telegram-id-privatevpns@35.181.221.89:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S105)🇨🇵t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@51.44.91.28:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S106)🇨🇵t.me/PrivateVPNs Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
 trojan://telegram-id-privatevpns@51.44.91.28:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S106)🇨🇵t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
-
-trojan://telegram-id-privatevpns@52.210.128.14:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S110)🇨🇮t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@52.30.22.44:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S109)🇨🇮t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
