@@ -60,6 +60,8 @@ hysteria2://f3182d97-8472-4433-8d75-7598d6978364@kaikaixinxin-ca.legeth.xyz:443?
 
 vless://1786e6f4-2632-486b-80b8-4389415aac5f@spd.fastly80-3.hosting-ip.com:80?path=%2Fspdnet%3Fed%3D1024&security=none&encryption=none&host=PINF.spdnet.ir.&type=ws#MCI-%40V2ray_Alpha-9
 
+vless://20c60350-172c-40c3-b1e0-ae495c43a424@91.134.38.117:58060?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#MCI-%40V2ray_Alpha-10
+
 vless://626e5631-2928-4725-8d74-8eef698aabb1@188.245.81.145:30339?security=none&encryption=none&headerType=none&type=tcp#%40V2rayNG3 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://677a41e5-dbe6-429b-8f91-cc014b1ae1bd@146.190.16.108:23701?security=&encryption=none&host=Speedtest.net&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20 Country: The Netherlands Region: Drenthe City: Meppel Zip Code: 7941 ISP: Stark Industries Solutions LTD
@@ -77,8 +79,6 @@ vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.87.30:2198?security=none&enc
 vless://928c7c5b-5928-4b7c-98d7-dcfca65d02f3@3.79.61.93:20733?security=none&encryption=none&headerType=none&type=tcp#%40V2rayNG3 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://b5e3d701-3b7e-4fc6-a107-5c82a3f8b414@79.127.70.72:443?security=&encryption=none&host=archlinux.org&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7 Country: The Netherlands Region: Drenthe City: Meppel Zip Code: 7941 ISP: Stark Industries Solutions LTD
-
-vless://b6cdcef0-b61b-424d-81f8-41e40e762dde@de04.abvpn.ru:443?path=%2Fwebsocket&security=tls&encryption=none&fp=chrome&type=ws&sni=de04.abvpn.ru#%40V2rayNG3 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://e09093b1-0d61-4a41-b15d-ab1fb075da58@213.176.66.228:37021?security=reality&encryption=none&pbk=Gk3eR3mV55k5P3tg-MzqMpNolmML8q9zBOf6A102e1Y&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=bc721eb6#%40V2rayNG3 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
