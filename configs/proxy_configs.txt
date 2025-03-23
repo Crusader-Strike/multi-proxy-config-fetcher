@@ -1,32 +1,32 @@
-wireguard://4CP53ueDir9eDCDOJo29RgnsTy175vJWqf7FaX8CyXY%3D@188.114.99.79:880?wnoise=quic&address=172.16.0.2%2F32&reserved=181%2C192%2C66&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66%20%28warp%29%C2%B3
-
-wireguard://4GTpe1Tg42ssKjbABxddY80wsH%2FxqKqLchlogPV8BV4%3D@188.114.98.65:1002?wnoise=quic&address=172.16.0.2%2F32&reserved=107%2C63%2C148&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66%20%28warp%29%C2%B2
+wireguard://EHrpQLY9W%2FH42DtTUKiyY8ZYgXiNL0i%2BwH%2BagpF433c%3D@188.114.96.226:1014?address=172.16.0.2%2F32&reserved=117%2C68%2C163&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#HELI 2025-03-18 21:01
 
 wireguard://EHrpQLY9W%2FH42DtTUKiyY8ZYgXiNL0i%2BwH%2BagpF433c%3D@188.114.96.226:1014?wnoise=quic&address=172.16.0.2%2F32&reserved=117%2C68%2C163&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66%20%28warp%29%E2%81%B4
 
-wireguard://EHrpQLY9W%2FH42DtTUKiyY8ZYgXiNL0i%2BwH%2BagpF433c%3D@188.114.96.226:1014?wnoise=quic&address=172.16.0.2%2F32&reserved=117%2C68%2C163&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66%20%28warp%29%E2%81%B7
+wireguard://OAxIzS7GMWNeqV70ys83M56HFh7%2BUI8n2xu9%2Fh135WE%3D@188.114.98.189:1014?address=172.16.0.2%2F32&reserved=189%2C116%2C0&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#HELI 2025-03-18 18:02
 
 wireguard://OAxIzS7GMWNeqV70ys83M56HFh7%2BUI8n2xu9%2Fh135WE%3D@188.114.98.189:1014?wnoise=quic&address=172.16.0.2%2F32&reserved=189%2C116%2C0&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66%20%28warp%29%C2%B3
 
-wireguard://OAxIzS7GMWNeqV70ys83M56HFh7%2BUI8n2xu9%2Fh135WE%3D@188.114.98.189:1014?wnoise=quic&address=172.16.0.2%2F32&reserved=189%2C116%2C0&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66%20%28warp%29%E2%81%B6
+wireguard://UJGykYYQvD%2Buv590aks%2FN%2BoiUz5Iq%2F1Dop83HiyCilM%3D@188.114.99.99:943?wnoise=quic&address=172.16.0.2%2F32&reserved=53%2C152%2C129&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66%20%28warp%29%E2%81%B9
+
+wireguard://UOemr6howwQe3bqdoVeWUZYnyMqx%2BHTtpTzN1zzVsHc%3D@188.114.96.95:1014?wnoise=quic&address=172.16.0.2%2F32&reserved=243%2C181%2C106&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66%20%28warp%29%E2%81%B8
+
+wireguard://WO6ByCIQZd8VyfA2thDwIvKjo0hlRF2GMog5vbw3EV4%3D@188.114.97.63:987?address=172.16.0.2%2F32&reserved=105%2C179%2C187&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#HELI 2025-03-19 10:01
 
 wireguard://WO6ByCIQZd8VyfA2thDwIvKjo0hlRF2GMog5vbw3EV4%3D@188.114.97.63:987?wnoise=quic&address=172.16.0.2%2F32&reserved=105%2C179%2C187&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66%20%28warp%29%E2%81%B5
 
-wireguard://WO6ByCIQZd8VyfA2thDwIvKjo0hlRF2GMog5vbw3EV4%3D@188.114.97.63:987?wnoise=quic&address=172.16.0.2%2F32&reserved=105%2C179%2C187&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66%20%28warp%29%E2%81%B8
+wireguard://YKt0Y%2Fsy0OKmzQj742JMBywMDoWg2558FVsJd5DUwGQ%3D@188.114.99.80:987?wnoise=quic&address=172.16.0.2%2F32&reserved=158%2C31%2C221&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66%20%28warp%29%C2%B9%E2%81%B0کانفیگهای وایرگارد وارپاد کنید توی کلاینت NikaNg یا هر کلاینتی V2ray و استفاده کنید برای ویندوز از V2rayN Pro و از Karing برای همه سیستم عاملها استفاده کنید(متصل با همه اپراتورها)⚡️ @ShadowProxy66
 
-wireguard://cJygcUyn23L9yblrmRrpKC8rMdLbmknbiThS%2F4drMXA%3D@188.114.96.179:908?wnoise=quic&address=172.16.0.2%2F32&reserved=121%2C138%2C97&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66%20%28warp%29%E2%81%B9
+wireguard://cJygcUyn23L9yblrmRrpKC8rMdLbmknbiThS%2F4drMXA%3D@188.114.96.179:908?address=172.16.0.2%2F32&reserved=121%2C138%2C97&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#HELI 2025-03-19 18:00
 
-wireguard://eNmo9xPRpT9TKZdI%2F6N6cgqDC%2Fm4pYnmm7SeXpWAxFo%3D@188.114.98.145:987?wnoise=quic&address=172.16.0.2%2F32&reserved=246%2C14%2C94&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66%20%28warp%29%C2%B9%E2%81%B0کانفیگهای وایرگارد وارپاد کنید توی کلاینت NikaNg یا هر کلاینتی V2ray و استفاده کنید برای ویندوز از V2rayN Pro و از Karing برای همه سیستم عاملها استفاده کنید(متصل با همه اپراتورها)⚡️ @ShadowProxy66
+wireguard://cJygcUyn23L9yblrmRrpKC8rMdLbmknbiThS%2F4drMXA%3D@188.114.96.179:908?wnoise=quic&address=172.16.0.2%2F32&reserved=121%2C138%2C97&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66%20%28warp%29%E2%81%B6
+
+wireguard://eNmo9xPRpT9TKZdI%2F6N6cgqDC%2Fm4pYnmm7SeXpWAxFo%3D@188.114.98.145:987?wnoise=quic&address=172.16.0.2%2F32&reserved=246%2C14%2C94&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66%20%28warp%29%E2%81%B7
+
+wireguard://mBB0I%2BIeuYQ4bFvMwfjJOMVemKFwliuufGI0GsglMFk%3D@188.114.98.178:903?address=172.16.0.2%2F32&reserved=187%2C13%2C219&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#HELI 2025-03-18 10:02
 
 wireguard://mBB0I%2BIeuYQ4bFvMwfjJOMVemKFwliuufGI0GsglMFk%3D@188.114.98.178:903?wnoise=quic&address=172.16.0.2%2F32&reserved=187%2C13%2C219&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66%20%28warp%29%C2%B2
 
-wireguard://mBB0I%2BIeuYQ4bFvMwfjJOMVemKFwliuufGI0GsglMFk%3D@188.114.98.178:903?wnoise=quic&address=172.16.0.2%2F32&reserved=187%2C13%2C219&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66%20%28warp%29%E2%81%B5
-
 wireguard://qOcMjM6aCpNAYbSpXNdi9aWFkwQHAVsCwNPsrNMU3Fs%3D@188.114.97.131:942?wnoise=quic&address=172.16.0.2%2F32&reserved=123%2C176%2C88&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66%20%28warp%29%C2%B9
-
-wireguard://qOcMjM6aCpNAYbSpXNdi9aWFkwQHAVsCwNPsrNMU3Fs%3D@188.114.97.131:942?wnoise=quic&address=172.16.0.2%2F32&reserved=123%2C176%2C88&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66%20%28warp%29%E2%81%B4
-
-wireguard://uP0iioJFb73tf2ZD3F9vOOg8L4xJoJ6jNBwBUfQ%2BGHA%3D@188.114.98.224:1014?wnoise=quic&address=172.16.0.2%2F32&reserved=133%2C30%2C186&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66%20%28warp%29%C2%B9
 
 vless://0a85f145-50e2-4d26-ae62-e90015db44b0@panel2.svgspeedtest.net:443?type=xhttp&path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy&host=&mode=stream-one&security=reality&pbk=Aa3FogZ9ohTiRHsdnoyiMg7TFARWEeZs_m290juxEzs&fp=chrome&sni=fauxid.com&spx=%2F#Reality%20-%20%40Vpnmasi-32vxvm37 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
@@ -82,9 +82,15 @@ vmess://eyJhZGQiOiIyMy4xNTguNTYuMTg0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 
 vmess://eyJhZGQiOiIyMy4xNTguNTYuMjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNmVlZjM0NDgtYmJjMC00OTMzLTg5NGEtNzJiM2U4Nzg2MTA5IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0ODk2MSIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5Njbwn4ep8J+HqiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MTllMzhkMWQ2ZGIxNGI0@157.173.109.231:11107#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowenlEUloxWG1OWGFhQ0FON0tFQThh@45.151.62.54:28825#Channel+id%3A+%40ShadowProxy66%F0%9F%87%B7%F0%9F%87%BA
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYmY4YzVkYTEwZTAwMjRh@144.126.142.92:21448#Channel+id%3A+%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@beesyar.org:8080#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B3%F0%9F%87%B1
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkN2ZhZmFkMjM2MzExNjdj@57.130.11.56:11202#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMDE0ZjhhYjcxNzM1OTI2@57.128.190.245:20568#Channel+id%3A+%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
 
@@ -92,7 +98,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsQnROTjRNRzNONHlUcnJlMXBCTElT@147.45.221.105
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.49:8080#Channel+id%3A+%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B2
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B3%F0%9F%87%B1
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.70:8080#Channel+id%3A+%40ShadowProxy66%F0%9F%87%B3%F0%9F%87%B1
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B3%F0%9F%87%B1
 
 ss://YWVzLTEyOC1nY206NTBjV01yOUtia2VnREM5aEhaUE5Bdw==@20.173.66.64:1080#Channel+id%3A+%40ShadowProxy66%F0%9F%87%B6%F0%9F%87%A6Qatar
 
