@@ -66,9 +66,7 @@ vmess://ewogICAgImFkZCI6ICJzNC5kYi1saW5rMDIudG9wIiwKICAgICJhaWQiOiAwLAogICAgImhv
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVdTLVRMUyBcdWQ4M2NcdWRmZjRcdTIwMGRcdTI2MjBcdWZlMGYgTkEtMTA0LjIxLjQ4LjY6MjA4MyIsICJhZGQiOiAiMTA0LjIxLjQ4LjYiLCAicG9ydCI6ICIyMDgzIiwgImlkIjogImIwYTgyNzk0LWQ0ZDMtNDY2MC1kM2ZkLTM0ZGU3MTA3MjdkMyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiaXJhbi5mYXJzb25saW5lMjQuaXIiLCAicGF0aCI6ICIvQE0zSERJTzEiLCAidGxzIjogInRscyIsICJzbmkiOiAiaXJhbi5mYXJzb25saW5lMjQuaXIiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImFsbG93aW5zZWN1cmUiOiAxfQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon34
 
-vmess://eyJhZGQiOiAiMTM4LjE5OS4xNTguMjQ1IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIzZjY1MGNjNC0zOWQzLTRlYjUtODJmMS0xNDljY2EwYzM0MmIiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjEwMCIsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tVENQLU5BIFx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSBERS0xMzguMTk5LjE1OC4yNDU6MTAwIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon35
-
-vmess://eyJhZGQiOiAiMzguMTA5LjIyOC4xMTMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImE2MTc5NDc1LTQ4OWMtNGJjYy1iMDVjLTQ4MTM4NjI5NWI5MyIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjE4MDkiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZWJcdWQ4M2NcdWRkZjcgRlItMzguMTA5LjIyOC4xMTM6MjE4MDkiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon36
+vmess://eyJhZGQiOiAiMzguMTA5LjIyOC4xMTMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImE2MTc5NDc1LTQ4OWMtNGJjYy1iMDVjLTQ4MTM4NjI5NWI5MyIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjE4MDkiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZWJcdWQ4M2NcdWRkZjcgRlItMzguMTA5LjIyOC4xMTM6MjE4MDkiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon35
 
 vmess://eyJhZGQiOiIxNzIuNjcuMTcwLjEzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnbHdlaWRmLnNicyIsImlkIjoiNzYyMjFiZmItZTkyZi00ZTgwLTgxYzUtNmZlNDhmNTBhYzBiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkNoYW5uZWwgaWQ6IEBTaGFkb3dQcm94eTY28J+HufCfh7ciLCJzY3kiOiJhdXRvIiwic25pIjoiZ2x3ZWlkZi5zYnMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
@@ -88,8 +86,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@beesyar.org:80
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpabVExTnpGag@185.231.205.179:8388#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B5%F0%9F%87%B1
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkN2ZhZmFkMjM2MzExNjdj@57.130.11.56:11202#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYXRoMWVpY2llU2hfIU1NeWJ-NEhULH1iQ0BvaHBoZWlSYWlnaGllcjBzaG9oZA@185.158.155.33:8388#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B7%F0%9F%87%BA
@@ -103,6 +99,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B3%F0%9F%87%B1
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B3%F0%9F%87%B1
+
+ss://YWVzLTI1Ni1jZmI6OVh3WXlac0s4U056UUR0WQ@217.30.10.18:9059#%F0%9F%87%B5%F0%9F%87%B1%20PL-217.30.10.18%3A9059 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 ss://YWVzLTI1Ni1nY206WkRHQzBRMkUxMTJVQUpPNg@156.245.190.23:15014#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Hong%20Kong%20%288%29 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
@@ -124,9 +122,9 @@ trojan://telegram-id-privatevpns@3.248.77.16:22222?security=tls&alpn=http/1.1&he
 
 trojan://telegram-id-privatevpns@3.76.138.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@35.177.17.49:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S117)🇬🇧t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
+trojan://telegram-id-privatevpns@35.177.129.51:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇬🇧t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@35.179.250.47:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇬🇧t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
+trojan://telegram-id-privatevpns@35.177.17.49:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S117)🇬🇧t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@52.47.45.10:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S116)🇨🇵t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
