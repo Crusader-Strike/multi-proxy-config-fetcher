@@ -30,6 +30,8 @@ wireguard://uP4GIDGNGtHP8I2cDohDSvdBB3Wr9RwCR7W3NIbX1E4%3D@188.114.97.16:955?wno
 
 vless://1ae17c7d-6074-41e2-894b-478c9fcf5715@172.64.157.124:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=rough-hill-2959-ppal03.fawik58803.workers.dev&type=ws#Channel+id%3A+%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B2
 
+vless://1df5e589-3301-427e-b0aa-0017ffde1555@91.107.155.193:4050?security=reality&encryption=none&pbk=oVRY8h7Njgw25j3CNhaJVMUys378tTvecrSRbrB3gyo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mega.de&sid=2ebd6e17dec6a5d9#%40V2rayNG3 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
 vless://25165ada-2fcc-4fa4-8493-4b8c9896c876@135.181.155.147:40240?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#Channel+id%3A+%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%AE
 
 vless://3691f715-024c-411b-b269-d4a593f04ff2@a.nl.maviks.eu:443?security=reality&encryption=none&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=maviks.eu&sid=21181028b56c8702#%F0%9F%87%B3%F0%9F%87%B1%20Vpn_PROxy_CUstom Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
@@ -41,8 +43,6 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.83.2.156:8880?path=%2F&security
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.153:2095?path=%2F&security=none&encryption=none&host=redw.pooriam.ir&type=ws#Channel+id%3A+%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B2
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.234:80?path=Telegram+%40ShadowProxy66+%2F%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#Channel+id%3A+%40ShadowProxy66%F0%9F%87%AF%F0%9F%87%B5
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.28:2095?path=%2F&security=none&encryption=none&host=redw.pooriam.ir&type=ws#Channel+id%3A+%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
 
 vless://626e5631-2928-4725-8d74-8eef698aabb1@188.245.81.145:30339?security=none&encryption=none&headerType=none&type=tcp#%40V2rayNG3 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
@@ -83,8 +83,6 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.237.185.160:989#%F0%9F%87%B1%F0%
 ss://YWVzLTI1Ni1nY206MUg1S1g1UVpCVU9XUDJQNA@156.231.104.17:18007#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%282%29 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@67.220.95.102:6697#%F0%9F%87%BA%F0%9F%87%B8%20US-67.220.95.102%3A6697 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@67.220.95.102:5601#%F0%9F%87%BA%F0%9F%87%B8%20Ashburn%2C%20VA%2C%20United%20States%20%2810%29 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 trojan://telegram-id-directvpn@13.36.99.127:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
