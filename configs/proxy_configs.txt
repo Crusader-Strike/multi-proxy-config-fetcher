@@ -44,9 +44,15 @@ vmess://eyJ2IjoiMiIsInBzIjoiRC1GT1gtOTgxMiIsImFkZCI6IjE2NS4yMjcuNjUuNDAiLCJwb3J0
 
 vmess://eyJhZGQiOiJiYXphci5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZGUxLXZtZXNzLmdyZWVuc3NoLm9yZyIsImlkIjoiN2NlOWI0MWYtODAyMi00ZTExLWE3YzAtMmI3ZTZmMWJkZGVjIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HqfCfh6phbGwiLCJzY3kiOiJhdXRvIiwic25pIjoiZGUxLXZtZXNzLmdyZWVuc3NoLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#%F0%9F%87%B3%F0%9F%87%B1%20
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.178:8080#%F0%9F%87%B3%F0%9F%87%B1%20
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDcVNodzh2Z3I0NXNQSVVsSVBaN3NQ@h110vpnus.outlinekeys.net:9483#%F0%9F%87%BA%F0%9F%87%B8%20Atlanta%2C%20GA%2C%20United%20States%20%2826%29 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNMkV6WQ@ca1.ssocks.wiki:8388#%F0%9F%87%A8%F0%9F%87%A6%20Toronto%2C%20ON%2C%20Canada Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.171:8080#%F0%9F%87%B3%F0%9F%87%B1%20
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.154:8080#%F0%9F%87%B1%F0%9F%87%B9%20LT-45.87.175.154%3A8080 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
