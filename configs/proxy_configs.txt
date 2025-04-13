@@ -44,6 +44,8 @@ vmess://eyJhZGQiOiAiOTUuMTY0LjQuMTQwIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjog
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.192:8080#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B3%F0%9F%87%B1
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV1V3Tw@nl2.ssocks.wiki:8388#%F0%9F%87%B3%F0%9F%87%B1%20Meppel%2C%20DR%2C%20The%20Netherlands%20%281%29 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPY3ZNZzJuVDNiNmVQR3R0eGdBUlpW@91.84.111.27:58575#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B3%F0%9F%87%B1
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B3%F0%9F%87%B1
