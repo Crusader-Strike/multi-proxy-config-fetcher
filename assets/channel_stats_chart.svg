@@ -127,21 +127,21 @@
         </g>
         
         <g>
-            <rect x="655.0" y="60.0" width="80.0" height="280.0"
+            <rect x="655.0" y="200.0" width="80.0" height="140.0"
                   class="bar"/>
             <text x="697.5" y="380" 
                   transform="rotate(45, 697.5, 380)"
                   text-anchor="start" class="tick-label">
                 freewireguard
             </text>
-            <text x="697.5" y="55.0" 
+            <text x="697.5" y="195.0" 
                   text-anchor="middle" class="tick-label">
-                100.0%
+                50.0%
             </text>
         </g>
         
         <text x="740" y="390" text-anchor="end" class="timestamp">
-            Last updated: 2025-04-13T14:17:11.855818
+            Last updated: 2025-04-13T15:20:17.867711
         </text>
     </svg>
     
