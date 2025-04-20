@@ -52,11 +52,11 @@ vless://d75648e7-ebfa-4ef0-9436-82e9d4fb0e4f@188.245.215.44:442?mode=gun&securit
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146:8880?mode=gun&security=none&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
 
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.13:8880/?type=grpc&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20US%2038 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.245:8880?mode=gun&security=none&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B1%F0%9F%87%B9
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.44:8880?mode=gun&security=none&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B1%F0%9F%87%B9
-
-vless://e464526a-e3de-4db9-8821-4e146507976f@5.180.46.9:8880/?type=grpc&encryption=none&serviceName=vless-grpc#%F0%9F%88%93REvil Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vmess://eyJ0bHMiOiAidGxzIiwgInBhdGgiOiAiL2xpbmt2d3MjVEVMRUdSQU0tTUFSQU1CQVNISV9NQVJBTUJBU0hJP2VkPTUxMiIsICJzY3kiOiAiYXV0byIsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tV1MtVExTIFx1ZDgzY1x1ZGRmNVx1ZDgzY1x1ZGRmMSBQTC01Ny4xMjguMTkzLjExNzo0NDMiLCAiYWxwbiI6ICIiLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgInNuaSI6ICJrYXBlbGxlbmcuY29tIiwgImFkZCI6ICI1Ny4xMjguMTkzLjExNyIsICJwb3J0IjogIjQ0MyIsICJob3N0IjogImthcGVsbGVuZy5jb20iLCAibmV0IjogIndzIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon31
 
@@ -106,6 +106,8 @@ trojan://eG92F3gh09@51.15.86.181:1935?security=tls&headerType=none&type=tcp&sni=
 
 trojan://psycho@104.21.112.1:443?path=%2Ftrv9KENu5FqbFAtPFq%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=psycho.suex12.ir&fp=randomized&type=ws&sni=pSYcho.sUeX12.IR#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A8%F0%9F%87%A6
 
+trojan://psycho@104.21.16.1:443?path=%2Ftrv9KENu5FqbFAtPFq%3Fed%3D2560&security=tls&alpn=http%2F1.1&type=ws&sni=pSYcho.sUeX12.IR#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A8%F0%9F%87%A62️⃣MTN❤️&...
+
 trojan://psycho@104.21.64.1:443?path=%2Ftrv9KENu5FqbFAtPFq%3Fed%3D2560&security=tls&alpn=http%2F1.1&type=ws&sni=pSYcho.sUeX12.IR#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A8%F0%9F%87%A6
 
 trojan://telegram-id-directvpn@15.237.207.188:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
@@ -123,6 +125,4 @@ trojan://telegram-id-privatevpns@15.237.207.188:22222?security=tls&alpn=http/1.1
 trojan://telegram-id-vlessconfig@15.236.157.86:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 trojan://telegram-id-vlessconfig@3.73.150.16:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
-trojan://telegram-id-vlessconfig@52.47.159.4:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
