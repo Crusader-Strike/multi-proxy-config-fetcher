@@ -1,16 +1,14 @@
-wireguard://ABG0VH79GxNtSt8CLNFe8KOEMk0irQ90ZPFTi2kkE28%3D@162.159.192.143:1843?wnoise=quic&address=172.16.0.2%2F32&reserved=177%2C134%2C162&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#Anon1
+wireguard://6PgkHBQggKSI1VSNU6OBLp9NStM4h6e7YEwPf63zuVk%3D@188.114.98.66:878?address=172.16.0.2%2F32&reserved=195%2C99%2C234&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#HELI 2025-04-27 10:00
 
 wireguard://ABG0VH79GxNtSt8CLNFe8KOEMk0irQ90ZPFTi2kkE28%3D@162.159.192.143:1843?wnoise=quic&address=172.16.0.2%2F32&reserved=177%2C134%2C162&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66+%28warp%29
 
-wireguard://EMdJICfEknZEioCIZwV%2FMtaFzElAzNOUU2X8o%2BRHiWc%3D@162.159.192.81:7559?wnoise=quic&address=172.16.0.2%2F32&reserved=170%2C7%2C198&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#Anon3
-
 wireguard://EMdJICfEknZEioCIZwV%2FMtaFzElAzNOUU2X8o%2BRHiWc%3D@162.159.192.81:7559?wnoise=quic&address=172.16.0.2%2F32&reserved=170%2C7%2C198&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66+%28warp%29
-
-wireguard://GX2HBifMqofZuqDeuUpLpO2VWlChtHhBYzUz%2B9Xkxp0%3D@162.159.192.184:3476?wnoise=quic&address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A852c%3A4a12%3A7ae6%3A7e47%3Af35f%2F128&reserved=135%2C252%2C97&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-2&wnoisecount=15&mtu=1380#Anon5
 
 wireguard://GX2HBifMqofZuqDeuUpLpO2VWlChtHhBYzUz%2B9Xkxp0%3D@162.159.192.184:3476?wnoise=quic&address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A852c%3A4a12%3A7ae6%3A7e47%3Af35f%2F128&reserved=135%2C252%2C97&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-2&wnoisecount=15&mtu=1380#%40ShadowProxy66+%28warp%29
 
 wireguard://KE%2B7NMKryv%2B36iKUPvucyM933dl1e2okktDaDY1Ga1M%3D@[2606:4700:d0::5c8:94c0:e71f:659f]:1014?wnoise=quic&address=172.16.0.2%2F32&reserved=206%2C52%2C89&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66+%28warp%29کانفیگهای وایرگارد وارپتوی کلاینت NikaNg یا هر کلاینتی V2ray و استفاده کنید برای ویندوز از V2rayN Pro و از Karing برای همه سیستم عاملها استفاده کنید(متصل با همه اپراتورها)⚡️ @ShadowProxy66
+
+wireguard://OP8lRWeaOhru3AGvCdUMGOPgXo039Zx14mvNEd8tgEg%3D@188.114.98.221:955?address=172.16.0.2%2F32&reserved=114%2C63%2C115&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#HELI 2025-04-27 18:00
 
 wireguard://YBizy5bKbtl2pSJl5B62InAobBuXJEZzuWd4MhrLjXA%3D@[2606:4700:d0::1c35:6728:d599:a22d]:945?wnoise=quic&address=172.16.0.2%2F32&reserved=125%2C82%2C252&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66+%28warp%29
 
@@ -18,11 +16,13 @@ wireguard://aK%2Fm6iW3sG4jmiqz0P4h5QhHllo%2FgLAuZehDIEwlPlg%3D@188.114.99.9:942?
 
 wireguard://iNpNZiBukwh%2FVnRA97fL5VookAnaGknlhTr3FLY0anc%3D@162.159.195.51:4198?wnoise=quic&address=172.16.0.2%2F32&reserved=116%2C56%2C46&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66+%28warp%29
 
+wireguard://mG%2BrqXopTF9ytxcEOg8DDlPr9k101w6D2kRbgnNtQX8%3D@188.114.98.233:942?address=172.16.0.2%2F32&reserved=9%2C180%2C137&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#HELI 2025-04-27 21:00
+
 wireguard://oDVrI1qFcq0RB6jVY9yy0lLO5N%2B8zFbJ5GtNUWrJJUA%3D@162.159.192.237:5956?wnoise=quic&address=172.16.0.2%2F32&reserved=113%2C65%2C56&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66+%28warp%29
 
-wireguard://sBeR7dIrxsDGylE4qECa5s8qF7ZsedSdRHY9mJgsG2E%3D@188.114.96.155:1002?wnoise=quic&address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=111%2C182%2C209&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-2&wnoisecount=15&mtu=1280#Anon12
-
 wireguard://sBeR7dIrxsDGylE4qECa5s8qF7ZsedSdRHY9mJgsG2E%3D@188.114.96.155:1002?wnoise=quic&address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8f81%3Ad551%3Aa0%3A532e%3Aa2b3%2F128&reserved=111%2C182%2C209&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-2&wnoisecount=15&mtu=1280#%40ShadowProxy66+%28warp+%29
+
+wireguard://wMvv52tExUcuwtqJio7COurrv0vhVltVixuyQK5UeF8%3D@188.114.96.157:1018?address=172.16.0.2%2F32&reserved=205%2C1%2C122&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#HELI 2025-04-28 10:00
 
 wireguard://yFKKtuSGFz%2BNAC%2BsbmnKyWSsqYGLTfGysZxDFFvVf2U%3D@[2606:4700:d0::15d4:ee8b:8684:a762]:1701?wnoise=quic&address=172.16.0.2%2F32&reserved=147%2C102%2C50&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66+%28warp%29
 
@@ -90,6 +90,10 @@ vmess://eyJzY3kiOiJhdXRvIiwicGF0aCI6IiIsInR5cGUiOiJub25lIiwibmV0IjoidGNwIiwiaWQi
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZdGN1b3ptaVZqZFphemdab1A4NjVY@212.113.106.76:29149#%F0%9F%87%A6%F0%9F%87%B9%20AT-212.113.106.76%3A29149 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
+ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA@217.30.10.18:9005#%F0%9F%87%B5%F0%9F%87%B1%20PL-217.30.10.18%3A9005 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
 ss://YWVzLTI1Ni1nY206MWNjN2FkNWYtYzliYy00MTM4LTg0OWEtMDJhZWVjOGUzN2E3@141.94.115.231:8443#%40V2rayNG3 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@23.251.121.242:8080#%F0%9F%87%BA%F0%9F%87%B8%20US-23.251.121.242%3A8080 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
@@ -102,19 +106,19 @@ trojan://e733ae52-7964-401b-8cc9-3cc2115d0040@94.131.97.12:443?security=tls&host
 
 trojan://e733ae52-7964-401b-8cc9-3cc2115d0040@95.164.35.208:443?security=tls&host=tag-frown-lying.stark-industries.solutions&headerType=none&type=tcp#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B5%F0%9F%87%B1
 
-trojan://telegram-id-directvpn@3.74.220.39:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
 trojan://telegram-id-privatevpns@13.37.10.106:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@16.170.30.154:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S109)🇸🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@18.193.113.18:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S969)🇩🇪t.me/vmess_iran Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
+trojan://telegram-id-privatevpns@18.193.176.89:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+
 trojan://telegram-id-privatevpns@18.193.90.151:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-trojan://telegram-id-privatevpns@51.21.207.157:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S110)🇸🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+trojan://telegram-id-privatevpns@3.74.220.39:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@52.209.57.149:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S107)🇮🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+trojan://telegram-id-privatevpns@51.21.207.157:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S110)🇸🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@52.47.131.158:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
