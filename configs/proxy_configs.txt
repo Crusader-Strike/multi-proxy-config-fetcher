@@ -90,8 +90,6 @@ vmess://eyJhZGQiOiJlbG1hLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixo
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#%F0%9F%87%AB%F0%9F%87%B7%20FR-51.195.119.47%3A1080 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@23.251.121.242:8080#%F0%9F%87%BA%F0%9F%87%B8%20US-23.251.121.242%3A8080 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 trojan://e733ae52-7964-401b-8cc9-3cc2115d0040@176.120.65.14:443?security=tls&host=cushy-coil-chaos.stark-industries.solutions&headerType=none&type=tcp#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A6%F0%9F%87%B9
