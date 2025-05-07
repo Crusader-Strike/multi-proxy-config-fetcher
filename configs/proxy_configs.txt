@@ -106,8 +106,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVjVCQXpxTFpvc09mdUlya3lvYWRU@5.181.21.194:1
 
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@203.23.128.33:989#%F0%9F%87%AD%F0%9F%87%B0%20HK-203.23.128.33%3A989 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-ss://YWVzLTI1Ni1jZmI6cVlFTjVIWDRKS2VWQ2RFQw@195.238.126.84:9039#%F0%9F%87%B1%F0%9F%87%B9%20LT-195.238.126.84%3A9039 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.154.136.44:8881#%F0%9F%87%BA%F0%9F%87%B8%20US-23.154.136.44%3A8881 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 trojan://pqlnPNu423@57.129.89.172:1935?security=tls&alpn=h2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x1-germany-ovh-v2.devefun.net#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
