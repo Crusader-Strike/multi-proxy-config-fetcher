@@ -2,6 +2,8 @@ wireguard://2McPgCfm0C9OZd5CrEu%2Fg%2BChMbgEl55EH3fAw0e19Wc%3D@188.114.99.214:10
 
 wireguard://6HFhVcetnpDm0WS0LETEEPkUmBQzKPUpPYfRbdqDkn8%3D@188.114.97.249:903?address=172.16.0.2%2F32&reserved=8%2C29%2C164&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#HELI 2025-05-05 21:03
 
+wireguard://ANRzy%2BlrLBCfAg71uT%2F6tuflqqa6xbKXT5zawUBppE8%3D@188.114.96.141:968?address=172.16.0.2%2F32&reserved=171%2C97%2C196&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#HELI 2025-05-09 21:01
+
 wireguard://ICDn736wp9CT%2FyXjizd3yNHBp9ABYQjDKIyOsJ%2BhhXE%3D@188.114.99.171:1018?address=172.16.0.2%2F32&reserved=60%2C233%2C109&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#HELI 2025-05-05 10:03
 
 wireguard://IGcMhBenKUN7KTFG4P6O1PvmSQJUo2jb1LskHrLhtWg%3D@188.114.97.51:908?address=172.16.0.2%2F32&reserved=27%2C119%2C252&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#HELI 2025-05-08 18:00
@@ -17,8 +19,6 @@ wireguard://QBo7Jc82O93A2VznN00%2F6E47NKhWG3hZINitmjIDe3g%3D@188.114.98.100:943?
 wireguard://WGF2NIF%2BuyGy0v5BhJI01Q214YzVPyZcWI2wUM6ExmM%3D@188.114.98.189:955?address=172.16.0.2%2F32&reserved=87%2C246%2C227&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#HELI 2025-05-08 21:00
 
 wireguard://gBYJPy0QP6xraYxqQ%2Ff0Y5SbSKPQfW5awYomWnSt41w%3D@188.114.99.134:987?address=172.16.0.2%2F32&reserved=108%2C107%2C54&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#HELI 2025-05-07 18:04
-
-wireguard://kCExkal69iT6fKSp1ykSqruBNk6k%2FprHVlDPWYwzN20%3D@188.114.98.217:903?address=172.16.0.2%2F32&reserved=50%2C43%2C198&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#HELI 2025-05-04 21:03
 
 wireguard://kGG1rgSnxUCLwfyI9G0vLw0i%2F7tFeFKMXezWlf2hUFQ%3D@188.114.99.23:880?address=172.16.0.2%2F32&reserved=166%2C120%2C120&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#HELI 2025-05-06 18:04
 
@@ -43,8 +43,6 @@ vmess://ewogICAgImFkZCI6ICJhZjRlNDIzOS1zdjJzZzAtc3ZwbWRjLW54M2IuaGsucDVwdi5jb20i
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggMTJ88J+HuvCfh7gg576O5Zu9NXxAcmlwYW9qaWVkaWFuIiwiYWRkIjoiMTIwLjE5OC43MS4yMTYiLCJwb3J0IjoiNDY3NTkiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon22
 
 vmess://eyJhZGQiOiJlbG1hLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmEzMjYzZTItODkxYy00NDQ2LWI0NzQtYThjNjNhY2I2ZTI1IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcy03NjQ4Iiwic2N5IjoiYXV0byIsInNuaSI6IjFmZFNOQTExOTIyODkyOE9wUzJzbVRhQjIyOGFBc0REc2QxZWExMTM3MjIwNTAxNDIuMS1zZW5hdG9yLmluZm8iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon23
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxT0FFakxkQkRmUGM%3D@194.87.216.79:443#ram
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@35.72.184.29:2377#%F0%9F%87%AF%F0%9F%87%B5%20JP-35.72.184.29%3A2377 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
