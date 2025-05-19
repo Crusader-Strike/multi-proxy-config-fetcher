@@ -8,8 +8,6 @@ wireguard://6HFhVcetnpDm0WS0LETEEPkUmBQzKPUpPYfRbdqDkn8%3D@188.114.98.143:4500?w
 
 wireguard://EGt3o3sU%2F0vVDKB%2FNAAB0Ku3L858wb7%2BKXKLSdLbj1A%3D@188.114.97.47:1387?wnoise=quic&address=172.16.0.2%2F32&reserved=114%2C206%2C28&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66+%28warp%29
 
-wireguard://GFMMlr5heMUwV9Pq0OEkTW5SLwx%2Fy6i5%2Fhp%2BawHYLHw%3D@188.114.99.98:1018?address=172.16.0.2%2F32&reserved=125%2C225%2C15&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#HELI 2025-05-13 10:02
-
 wireguard://KG8CV7%2FzwFm0zSFYOKGYqmP2Q9mDRiemev%2FIkHaRJ1Q%3D@188.114.97.108:987?wnoise=quic&address=172.16.0.2%2F32&reserved=219%2C24%2C159&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66+%28warp%29
 
 wireguard://KG8CV7%2FzwFm0zSFYOKGYqmP2Q9mDRiemev%2FIkHaRJ1Q%3D@188.114.99.0:942?wnoise=quic&address=172.16.0.2%2F32&reserved=219%2C24%2C159&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66+%28warp%29
@@ -17,6 +15,8 @@ wireguard://KG8CV7%2FzwFm0zSFYOKGYqmP2Q9mDRiemev%2FIkHaRJ1Q%3D@188.114.99.0:942?
 wireguard://OAdv5lIC44Zh1WKVjF3YtVVKFZ2Irj94jI6QwNO8VWQ%3D@162.159.192.151:945?wnoise=quic&address=172.16.0.2%2F32&reserved=78%2C172%2C244&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66+%28warp%29
 
 wireguard://OAdv5lIC44Zh1WKVjF3YtVVKFZ2Irj94jI6QwNO8VWQ%3D@188.114.98.224:4233?wnoise=quic&address=172.16.0.2%2F32&reserved=78%2C172%2C244&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66+%28warp%29کانفیگهای وایرگارد وارپتوی کلاینت NikaNg یا هرکلاینتی V2ray استفاده کنید برای ویندوز V2rayN Pro و Karing برای همه سیستم عاملها استفاده کنید(متصل باهمه اپراتورها)⚡️ @ShadowProxy66
+
+wireguard://UDBpRI3NEvFoWExekJoj3RRXE6Gl77NtLaqbn5AE6H4%3D@188.114.96.150:988?address=172.16.0.2%2F32&reserved=161%2C249%2C114&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#HELI 2025-05-13 21:03
 
 wireguard://YPyQgMbiGW3QDeuOfgpf9s3M%2F09zmWmakt%2BvAMggyFY%3D@188.114.96.96:1002?address=172.16.0.2%2F32&reserved=46%2C235%2C160&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#HELI 2025-05-13 18:03
 
@@ -56,7 +56,7 @@ vless://f12977e6-d296-4d94-9aaf-d31770b70f84@104.21.69.44:443?path=%2F&security=
 
 vless://f12977e6-d296-4d94-9aaf-d31770b70f84@104.21.69.44:443?path=%2F&security=tls&encryption=none&host=cr77.hedieh.dpdns.org&fp=chrome&type=ws&sni=cr77.hedieh.dpdns.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%AE
 
-vmess://ewogICJ2IjogMiwKICAicHMiOiAiVk1FU1Mt5pyq55+lPue+juWbvS1ORuino+mUgeiHquWItuWJpy1DaGF0R1BULVRpa1Rvay1Zb3VUdWJlLXVzd3V4aWFuLnBhaTUwMjg4LnVrOjg0NDMiLAogICJhZGQiOiAidXN3dXhpYW4ucGFpNTAyODgudWsiLAogICJwb3J0IjogODQ0MywKICAiaWQiOiAiYzMxMzYwNmYtOThjMi00ZDdiLWJhNzQtNDhiOTRmNjFiMTFkIiwKICAiYWlkIjogMCwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAid3MiLAogICJ0eXBlIjogbnVsbCwKICAiaG9zdCI6ICJ1c3d1eGlhbi5wYWk1MDI4OC51ayIsCiAgInBhdGgiOiAiLyIsCiAgInRscyI6IHRydWUsCiAgInNuaSI6ICIiCn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon30
+vmess://ewogICAgImFkZCI6ICJ3d3cuaGRtb2xpLmNvbSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImZyLmZyZWV5eWRzLmRwZG5zLm9yZyIsCiAgICAiaWQiOiAiMmYzOGY4NDgtYTg5OS00Yzg3LTk4MDctMjA3YTQxNjE1ZTNjIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3JvbmdzZXZlbj9lZD0yMDQ4IiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE3Mi42Ny4xNTUuMTcyLTAyMzgiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon30
 
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lODUgMTI4LjFLQi9zIiwiYWRkIjoiNjIuMTQ2LjIzMy42NiIsInBvcnQiOiIxNTgyOCIsImlkIjoiOGI5Y2YzZGMtYzI4Mi00MjRmLWE1OTAtYzQ1YzlhMzZkM2Y5IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiODUifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon31
 
