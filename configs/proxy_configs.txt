@@ -18,8 +18,6 @@ wireguard://OAdv5lIC44Zh1WKVjF3YtVVKFZ2Irj94jI6QwNO8VWQ%3D@188.114.98.224:4233?w
 
 wireguard://UDBpRI3NEvFoWExekJoj3RRXE6Gl77NtLaqbn5AE6H4%3D@188.114.96.150:988?address=172.16.0.2%2F32&reserved=161%2C249%2C114&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#HELI 2025-05-13 21:03
 
-wireguard://YPyQgMbiGW3QDeuOfgpf9s3M%2F09zmWmakt%2BvAMggyFY%3D@188.114.96.96:1002?address=172.16.0.2%2F32&reserved=46%2C235%2C160&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#HELI 2025-05-13 18:03
-
 wireguard://iIWtEJ5ts41BxWw%2FaveuW%2Bj5fvLUdtBb%2FtIQ%2F12XBH4%3D@162.159.192.120:2506?wnoise=quic&address=172.16.0.2%2F32&reserved=19%2C171%2C132&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66+%28warp%29
 
 wireguard://kGG1rgSnxUCLwfyI9G0vLw0i%2F7tFeFKMXezWlf2hUFQ%3D@162.159.195.223:943?wnoise=quic&address=172.16.0.2%2F32&reserved=166%2C120%2C120&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66+%28warp%29
@@ -27,6 +25,8 @@ wireguard://kGG1rgSnxUCLwfyI9G0vLw0i%2F7tFeFKMXezWlf2hUFQ%3D@162.159.195.223:943
 wireguard://mEDYtydZFZGtyUsOvCTrunokMmRcOab0uGa%2FFbc9A1k%3D@162.159.192.47:1002?wnoise=quic&address=172.16.0.2%2F32&reserved=193%2C167%2C173&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66+%28warp%29
 
 wireguard://mEDYtydZFZGtyUsOvCTrunokMmRcOab0uGa%2FFbc9A1k%3D@188.114.99.0:1070?wnoise=quic&address=172.16.0.2%2F32&reserved=193%2C167%2C173&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66+%28warp%29
+
+wireguard://wAuHRUiSl%2FyofvlW9Hx0PuoAFnElx7Ox9g19f0RoaXw%3D@188.114.99.83:987?address=172.16.0.2%2F32&reserved=62%2C103%2C22&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#HELI 2025-05-14 10:03
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@80.211.194.250:80?path=%2FTelegram%F0%9F%87%AE%F0%9F%87%B7%20%40ShadowProxy66%20%2F%3Fed&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A8%F0%9F%87%BF
 
@@ -86,17 +86,15 @@ trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&heade
 
 trojan://telegram-id-directvpn@18.193.175.187:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-trojan://telegram-id-directvpn@3.126.172.213:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
 trojan://telegram-id-privatevpns@13.36.160.33:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@13.37.134.199:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 trojan://telegram-id-privatevpns@13.38.145.138:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-trojan://telegram-id-privatevpns@15.188.156.39:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+trojan://telegram-id-privatevpns@13.39.152.74:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@15.236.1.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+trojan://telegram-id-privatevpns@15.188.156.39:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@18.193.175.187:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
@@ -109,6 +107,8 @@ trojan://telegram-id-privatevpns@3.126.52.228:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@3.78.68.137:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@35.156.196.176:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+
+trojan://telegram-id-privatevpns@35.181.19.90:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@56.228.78.101:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S109)🇸🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
