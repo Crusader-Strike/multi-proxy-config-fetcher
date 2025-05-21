@@ -8,8 +8,6 @@ wireguard://6HFhVcetnpDm0WS0LETEEPkUmBQzKPUpPYfRbdqDkn8%3D@[2606:4700:d0::123f:d
 
 wireguard://EGt3o3sU%2F0vVDKB%2FNAAB0Ku3L858wb7%2BKXKLSdLbj1A%3D@[2606:4700:d0::9121:ee7e:7484:34e5]:1070?wnoise=quic&address=172.16.0.2%2F32&reserved=114%2C206%2C28&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66+%28warp%29
 
-wireguard://IFNw5PkUK066oQAhUip84f7FC%2FGkzz7t41Yoj80%2BV1s%3D@188.114.98.61:945?address=172.16.0.2%2F32&reserved=105%2C239%2C220&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#HELI 2025-05-15 10:03
-
 wireguard://KG8CV7%2FzwFm0zSFYOKGYqmP2Q9mDRiemev%2FIkHaRJ1Q%3D@188.114.98.75:878?wnoise=quic&address=172.16.0.2%2F32&reserved=219%2C24%2C159&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66+%28warp%29
 
 wireguard://KG8CV7%2FzwFm0zSFYOKGYqmP2Q9mDRiemev%2FIkHaRJ1Q%3D@[2606:4700:d1::7b4e:3a7:799b:8b03]:928?wnoise=quic&address=172.16.0.2%2F32&reserved=219%2C24%2C159&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66+%28warp%29کانفیگهای وایرگارد وارپتوی کلاینت NikaNg یا هرکلاینتی V2ray استفاده کنید برای ویندوز V2rayN Pro و Karing برای همه سیستم عاملها استفاده کنید(متصل باهمه اپراتورها)⚡️ @ShadowProxy66
@@ -19,6 +17,8 @@ wireguard://OAdv5lIC44Zh1WKVjF3YtVVKFZ2Irj94jI6QwNO8VWQ%3D@162.159.192.125:8886?
 wireguard://SDjMB1WvjpPRfAvf2ZVJ4oAaRHo4PQ3KrPWybjxXSHk%3D@188.114.98.4:988?address=172.16.0.2%2F32&reserved=248%2C106%2C60&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#HELI 2025-05-15 18:04
 
 wireguard://cJYmovjRWIjmYQjEwzY1cjmqJOqtAG1Y2I4OYxPMMHE%3D@188.114.96.178:988?address=172.16.0.2%2F32&reserved=253%2C202%2C167&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#HELI 2025-05-15 21:04
+
+wireguard://gN%2FvA6ABn0VWbHTHKfKihToQmlZC8S7uW0eaqZ4YP3k%3D@188.114.97.236:1018?address=172.16.0.2%2F32&reserved=238%2C97%2C65&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#HELI 2025-05-16 18:04
 
 wireguard://iIWtEJ5ts41BxWw%2FaveuW%2Bj5fvLUdtBb%2FtIQ%2F12XBH4%3D@[2606:4700:d0::592f:4d6c:fd11:21c7]:2408?wnoise=quic&address=172.16.0.2%2F32&reserved=19%2C171%2C132&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66+%28warp%29
 
@@ -104,8 +104,6 @@ trojan://telegram-id-directvpn@63.178.81.232:22223?security=tls&alpn=http/1.1&he
 
 trojan://telegram-id-privatevpns@13.37.134.199:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@13.38.145.138:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
 trojan://telegram-id-privatevpns@15.237.97.69:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@16.16.8.137:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S109)🇸🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
@@ -113,6 +111,8 @@ trojan://telegram-id-privatevpns@16.16.8.137:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@3.126.52.228:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@35.181.42.7:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+
+trojan://telegram-id-privatevpns@63.178.81.232:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://xxoo@us.blazeppn.info:443?encryption=none&security=tls&sni=telewebion.com&fp=chrome&type=raw&headertype=none#ss 🆔 @mtproxy_lists
 
