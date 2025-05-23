@@ -88,13 +88,15 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:5
 
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1%20NL-109.201.152.181%3A443 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.24:38388 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon46
+
 ss://YWVzLTI1Ni1nY206R1U1RjdCTElLTlRPVzZHMg%3D%3D@45.154.207.246:20030#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
 
 ss://YWVzLTI1Ni1nY206S0M0MU1NWVZBWDgzR0RKMA%3D%3D@185.186.79.135:20028#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%B0
 
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@69.50.93.80:3306#%F0%9F%87%BA%F0%9F%87%B8%20US-69.50.93.80%3A3306 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@107.155.57.51:8080 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon49
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@107.155.57.51:8080 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon50
 
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=chop-wrist-bud.stark-industries.solutions#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A7%F0%9F%87%AA
 
