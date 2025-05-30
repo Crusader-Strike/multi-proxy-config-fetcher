@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-30T19:16:52.512329",
+  "timestamp": "2025-05-30T20:23:14.196329",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
@@ -40,8 +40,8 @@
     {
       "url": "https://t.me/s/IrdrapVPNnews",
       "enabled": true,
-      "retry_count": 1,
-      "success_rate": 50.0
+      "retry_count": 0,
+      "success_rate": 100.0
     },
     {
       "url": "https://t.me/s/freewireguard",
