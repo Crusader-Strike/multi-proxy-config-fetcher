@@ -14,8 +14,6 @@ wireguard://8KMLV9fKEjVWifH6jVeQ3S0P3%2FKJztl5%2B1V%2Byv7DIl4%3D@188.114.98.42:9
 
 wireguard://KLs2pF79%2FLLqOu6qBrsqw%2BklYnrytoc1w%2FDUOt2h62c%3D@188.114.98.10:880?address=172.16.0.2%2F32&reserved=96%2C173%2C40&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#ETSB 2025-06-02 21:03
 
-wireguard://OKtggbQ1MyUnJ6zE35iwAHo5CM3rXCQU0KTxKbO1bFY%3D@188.114.97.225:908?address=172.16.0.2%2F32&reserved=207%2C95%2C252&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#ETSB 2025-05-31 10:01
-
 wireguard://SJupEncD%2BpX%2FTm1Xe8UJw9mCgBRPs3bq%2B7T34NJ9bG8%3D@[0:0:0:0:0:ffff:bc72:6300]:934?wnoise=quic&address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A846c%3Ae510%3Abfa1%3Aea9f%3A5247%2F128&reserved=253%2C26%2C156&keepalive=10&wpayloadsize=1-8&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-3&wnoisecount=15&mtu=1330#%40ShadowProxy66%F0%9F%87%A6%F0%9F%87%BF%28warp%29IP⁴🇦🇿
 
 wireguard://UF5dTAl9LPsIgxZXg%2BdaRaiuoYOYVyT7a%2BJehnPYrns%3D@188.114.98.196:1002?address=172.16.0.2%2F32&reserved=208%2C38%2C196&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#ETSB 2025-06-01 21:02
@@ -25,6 +23,8 @@ wireguard://YC6ENpE2PoAFjAe24jtvkmLo%2BsceA%2BzJDICv78c1hF8%3D@188.114.98.216:10
 wireguard://gB9sikXBtuMUNVgcpo%2BY7o2cNzdnsFtoO763%2BfN8WWs%3D@188.114.96.158:908?address=172.16.0.2%2F32&reserved=114%2C22%2C104&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#ETSB 2025-06-02 10:02
 
 wireguard://oIUIhsc5vLkUYN%2FJqFZ7GBnvJtG%2Bgu%2BoWj678WHm2E0%3D@188.114.96.58:946?address=172.16.0.2%2F32&reserved=164%2C73%2C31&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#ETSB 2025-06-01 10:02
+
+wireguard://oIX0Q1ACtSe7WrpK0hF%2BETQlJqf6ddklj%2Bj2s6YvN3Q%3D@188.114.97.246:903?address=172.16.0.2%2F32&reserved=238%2C117%2C184&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#ETSB 2025-06-04 10:04
 
 wireguard://uFKNWLHFqG90eSORX223wPCxwDikNHVISdFDdGwQUXo%3D@188.114.97.122:955?address=172.16.0.2%2F32&reserved=206%2C78%2C12&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#ETSB 2025-06-01 18:02
 
@@ -106,6 +106,8 @@ trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@185.16.110.113:443?path=%2F&securi
 
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@212.183.88.172:443?path=%2Fproxyip%3D212.183.88.172%3A443&security=tls&host=icecream.955850.xyz&type=ws&sni=icecream.955850.xyz#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A6%F0%9F%87%B9
 
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@212.183.88.58:443?path=%2Fproxyip%3D212.183.88.58%3A443&security=tls&host=icecream.955850.xyz&type=ws&sni=icecream.955850.xyz#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A6%F0%9F%87%B9
+
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.221:443?path=%2Fproxyip%3D217.163.76.221%3A443&security=tls&host=icecream.955850.xyz&type=ws&sni=icecream.955850.xyz#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
 
 trojan://e6a2e741-0fce-440b-910c-b81325e2263a@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=bats-paper-chump.stark-industries.solutions#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
@@ -115,8 +117,6 @@ trojan://e6a2e741-0fce-440b-910c-b81325e2263a@bats-paper-chump.stark-industries.
 trojan://telegram-id-directvpn@35.159.102.83:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 trojan://telegram-id-privatevpns@13.39.3.20:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
-trojan://telegram-id-privatevpns@35.159.102.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 trojan://telegram-id-privatevpns@35.180.8.53:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
