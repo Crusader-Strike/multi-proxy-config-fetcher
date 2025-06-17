@@ -44,7 +44,7 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.183:8880?mode=gun&securit
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.185:8880?mode=gun&security=none&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
 
-vmess://ewogICAgImFkZCI6ICJkZWZhdWx0LmpwLmF3cy5kZG5zLmFkLjk4OTU2Ny54eXoiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJkZWZhdWx0LmpwLmF3cy5kZG5zLmFkLjk4OTU2Ny54eXoiLAogICAgImlkIjogImIzMjRjYzYwLTc4ZmMtNDI5Zi1hN2JhLTg4NWJkOTAxYjM2MCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9sb2dpbiIsCiAgICAicG9ydCI6IDQ4NTIzLAogICAgInBzIjogIvCfh6/wn4e1SlAtMTMuMTE1LjY0LjIzLTAyMDgiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJkZWZhdWx0LmpwLmF3cy5kZG5zLmFkLjk4OTU2Ny54eXoiCn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon24
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN86aaZ5rivN3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxMjAuMTk4LjcxLjIxNiIsICJwb3J0IjogIjQ2MTU5IiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJzbmkiOiAiIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon24
 
 vmess://eyJ2IjoiMiIsInBzIjoiX+S4reWbvSIsImFkZCI6InY3LmhlZHVpYW4ubGluayIsInBvcnQiOiIzMDgwNyIsInR5cGUiOiJub25lIiwiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJhaWQiOiIyIiwibmV0Ijoid3MiLCJwYXRoIjoiL29vb28iLCJob3N0Ijoib2NiYy5jb20iLCJ0bHMiOiIifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon25
 
@@ -65,8 +65,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8
 ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ@80.92.204.106:9042#%F0%9F%87%A9%F0%9F%87%AA%20DE-80.92.204.106:9042 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@138.186.143.32:989 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon34
-
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@203.23.128.33:989#%F0%9F%87%AD%F0%9F%87%B0%20HK%201 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 ss://YWVzLTI1Ni1nY206RnRERS9tL3pGR04yL2VkQmk5MWllNFAxQzVKQVRsU001SWVNaVNpejlBcz0%3D@Nigga.Best:9093#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%AE
 
