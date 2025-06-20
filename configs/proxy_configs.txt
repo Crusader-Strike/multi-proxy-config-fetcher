@@ -24,47 +24,27 @@ wireguard://yE%2B3QykJNi0E2Bw86WmClDj42vogCYYd4mos9nVepVc%3D@188.114.99.30:987?a
 
 wireguard://yINGSvsLXkPXD9Sp91UUNCVuyGgngJJRc8mPZkd5A10%3D@188.114.97.164:968?address=172.16.0.2%2F32&reserved=174%2C127%2C55&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-06-18 10:00
 
-vless://0f68499d-d0d2-4cff-bae5-3082fc2a0aaa@direct.gladservices.ir:1001?security=none&encryption=none&host=sheypoor.com&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66
-
 vless://0fdf994e-c44f-4781-9d77-244b17904380@78234873823.webnama.com.tr:3789?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.com#%F0%9F%87%BA%F0%9F%87%B8%20USA Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-vless://31a168d7-3048-49c1-9a53-6585d0e2352b@nl.sarab.site:8647?security=reality&encryption=none&pbk=rdHifNMDd2BTPjsCrFO-XDRynOJFh9-7koEdxHRK0QU&headerType=none&fp=safari&type=tcp&sni=refersion.com&sid=463e859c40a075a3#.Channel%20id%3A%20%40ShadowProxy66
+vless://290be591-627c-4790-99ce-0d94f331141f@2.189.175.46:7073?security=&encryption=none&headerType=http&type=tcp#%20%28%D9%86%D8%AA%20%D9%85%D9%84%DB%8C%29
 
 vless://44ec20e3-1c65-42d0-acb9-46d53f195e8a@23920309.webnama.com.tr:2029?security=reality&type=xhttp&headerType=&path=%2FAS&host=&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=stackoverflow.com&fp=chrome&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8&sid=#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%28%20ViP%20%29 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://589b8628-44e4-474c-9f16-4be7159b9800@91.99.149.127:46650?mode=gun&security=reality&encryption=none&pbk=4PpeKl3SfZISMkrtpJyVGKTZLIAsYcd9uGuWRi-pTE4&fp=chrome&type=grpc&sni=www.debian.org&sid=d5379dac5626e5#Saman%20Tel%207 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-vless://58c27d0a-c914-40c6-2c2b-653fd69a1248@lavin2.stevejobs-net.com:39044?security=none&encryption=none&host=speedtest.com&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66
-
-vless://61b3ec5f-65ca-a021-f814-face3815540a@nde1-tu.mobstore.store:3950?path=%3Fed%3D2084&security=tls&encryption=none&host=nde1-d.mobstore.store&fp=chrome&type=ws&sni=nde1-d.mobstore.store#Channel%20id%3A%20%40ShadowProxy66
-
-vless://76545e52-ec23-4cbe-e0bc-43ef75ae49fd@asia1.novahomedesigntips.com:17200?security=none&encryption=none&type=ws#Channel%20id%3A%20%40ShadowProxy66
-
-vless://8ce3a62a-e0ef-478f-b762-fe035be95377@gr34.logoutsystem.com:80?path=%2Flogoutsystem&security=none&encryption=none&type=ws#Channel%20id%3A%20%40ShadowProxy66
-
-vless://9e3af234-4fc2-440d-bb6e-bf29dfc63b34@amoron.v2kor.xyz:25742?security=none&encryption=none&headerType=none&type=tcp#Channel%20id%3A%20%40ShadowProxy66
-
 vless://b96981a2-a6aa-44c0-b21f-88328379ec33@91.99.150.156:2182?mode=gun&security=reality&encryption=none&pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&fp=chrome&type=grpc&serviceName=chessgame&sni=chess.com#SamanTel%206
 
 vless://b96981a2-a6aa-44c0-b21f-88328379ec33@91.99.150.157:2182?mode=gun&security=reality&encryption=none&pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&fp=chrome&type=grpc&serviceName=chessgame&sni=chess.com#SamanTel%205
 
-vless://d688fd31-7313-4657-8234-d25a16fb5442@gr57.adelshoop.net:443?path=%2Fadelshoop&security=tls&encryption=none&type=ws#Channel%20id%3A%20%40ShadowProxy66
+vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80?path=%2F%3Fed%3D2560%2F%3FJOKERRVPN&security=none&encryption=none&host=barayeiran.nastaranh.dpdns.org&type=ws#%20%28%D9%86%D8%AA%20%D9%85%D9%84%DB%8C%29
 
-vless://e1bda155-445f-418a-abc2-bc63207eb3ee@poolw.iceuniverse.top:443?path=%2Fde&security=tls&encryption=none&host=de25eadf81bc6543qw89ae68de20v67f35d6c043b8976250448p.staruniverse.lat&type=ws&sni=de25eadf81bc6543qw89ae68de20v67f35d6c043b8976250448p.staruniverse.lat#Channel%20id%3A%20%40ShadowProxy66
-
-vless://fb953758-08ee-4f47-a82b-46ac4de1d0dd@e2cf.routingflow.uk:443?path=%2Fws%3Fed%3D2560&security=tls&encryption=none&host=y.vajehai.li&fp=android&type=ws&sni=y.vajehai.li#Channel%20id%3A%20%40ShadowProxy66
-
-vmess://eyJhZGQiOiJ4bi0tdWttLWhwN2tybXF1ZDExaWViZjMwbDZ1ZmEzOWR3bi5HQW1lc1dJTmVycy5DT00iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiVFQSU4NyVBMiVFQSU4OSU5MCVFQSU4OCU5RiVFQSU4MyU5NSVFQSU4NSVBMyVFQSU4OSVBRHUlRUElODElQUUlRUElODAlQTAlRUElODglOUYlRUElODMlOTVrJUVBJTg1JUEzJUVBJTg1JTlFbS5HQW1lc1dJTmVycy5DT00uIiwiaWQiOiIwZWNkOWZjNC1hMjI5LTQ5NDItYWNhYS1mYzllZGEyOThiNjUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxMDA3IiwicHMiOiJDaGFubmVsIGlkOiBAU2hhZG93UHJveHk2NiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+vmess://ewogICJ2IjogMiwKICAicHMiOiAiVk1FU1Mt5Yqg5ou/5aSnLU5G6Kej6ZSB5Yqg5ou/5aSn5Zyw5Yy66Z2e6Ieq5Yi25YmnLUNoYXRHUFQtVGlrVG9rLVlvdVR1YmUtNTEuNzkuMTAyLjI1Mzo4MCIsCiAgImFkZCI6ICI1MS43OS4xMDIuMjUzIiwKICAicG9ydCI6IDgwLAogICJpZCI6ICI1OGZlMTU0Mi01MjkwLTQwYWQtODE1YS03NzcwN2E4MWFmZTUiLAogICJhaWQiOiAwLAogICJzY3kiOiAiYXV0byIsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiBudWxsLAogICJob3N0IjogIjUxLjc5LjEwMi4yNTMiLAogICJwYXRoIjogIi9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwKICAidGxzIjogZmFsc2UsCiAgInNuaSI6ICIiCn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon21
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%20%28%D9%86%D8%AA%20%D9%85%D9%84%DB%8C%29
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.188:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20(60) Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@2FreakConfig.usecharge.ir:443#Channel%20id%3A%20%40ShadowProxy66
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20(14) Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
-ss://YWVzLTEyOC1nY206T09TV0RZWFRTUldNVEFFSUo4WFVDRDI3UjJGMzg0T0RLVEhYRjQxWUxSVjQ%3D@vip-iran.interservervip.xyz:31792#Channel%20id%3A%20%40ShadowProxy66
 
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@67.220.95.102:8882#%F0%9F%87%BA%F0%9F%87%B8%20US-67.220.95.102%3A8882 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
@@ -74,13 +54,13 @@ trojan://telegram-id-privatevpns@15.188.148.184:22222?security=tls&alpn=http/1.1
 
 trojan://telegram-id-privatevpns@15.236.82.47:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@15.237.35.3:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
 trojan://telegram-id-privatevpns@15.237.4.132:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@18.195.228.194:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@3.122.126.53:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+
+trojan://telegram-id-privatevpns@3.123.63.21:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@3.72.117.224:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
