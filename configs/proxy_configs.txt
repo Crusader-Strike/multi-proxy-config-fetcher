@@ -32,8 +32,6 @@ vless://33d0980e-4054-474b-8f7c-05bf426963f1@91.99.150.156:1517?security=none&en
 
 vless://33d0980e-4054-474b-8f7c-05bf426963f1@91.99.150.157:3184?mode=gun&security=reality&encryption=none&pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&fp=chrome&type=grpc&serviceName=chessgame&sni=www.chess.com#%40G0Dv2ray
 
-vless://44ec20e3-1c65-42d0-acb9-46d53f195e8a@eir-95.f-sub.cfd:7964?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.com#Iran%20%2B%20%284%29%20-%20%28MCI%29 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
 vless://4dad6029-a008-4d3d-a98d-80fa9d997f37@amirpanel1.ckoutddhlursfjojxjw.com:36571?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40V2RAY1_ng
 
 vless://51fda508-20aa-419e-b4c3-3a6202411412@172.67.73.163:8080?path=%2F&security=none&encryption=none&host=18.6na7PY43IT.zuLaiR.Org.&type=ws#%40V2ray1_Ng
@@ -45,6 +43,8 @@ vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.17.209.145:80?path=%2F%3Fed%3D2
 vless://948f6596-66f9-4707-aa92-3107a214ce53@104.25.138.53:80?path=%2F%3Fed%3D2560%2F%3FBIA_CHANEL%40JOKERRVPN&security=none&encryption=none&host=oops.shalamshorba.dpdns.org&type=ws#%40V2ray1_Ng Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://953d71f0-9241-4903-95b4-cce61e90015e@vip-82.f-sub.cfd:5969?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66
+
+vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80?path=%2F%3Fed%3D2560%2F%3FJOKERRVPN&security=none&encryption=none&host=barayeiran.nastaranh.dpdns.org&type=ws#%20%28%D9%86%D8%AA%20%D9%85%D9%84%DB%8C%29
 
 vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80?path=%2F%3Fed%3D2560%2F%3FJOKERRVPN&security=none&encryption=none&host=barayeiran.nastaranh.dpdns.org&type=ws#%40V2ray1_Ng
 
@@ -76,9 +76,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSaVB1S0pKbDE4Wmd2THBUald4QndTZktpUGt0OWd6Rkt
 
 ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ@5.188.181.201:9001#%F0%9F%87%AA%F0%9F%87%B8%20ES-5.188.181.201:9001 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.19:38388#%F0%9F%87%BB%F0%9F%87%B3%20VN-103.186.155.19%3A38388 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@67.220.95.80:8090#%F0%9F%87%BA%F0%9F%87%B8%20US-67.220.95.80:8090 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@67.220.95.29:6697#%F0%9F%87%BA%F0%9F%87%B8%20US-67.220.95.29:6697 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
+trojan://telegram-id-directvpn@13.36.106.226:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 trojan://telegram-id-privatevpns@13.36.101.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
@@ -87,8 +91,6 @@ trojan://telegram-id-privatevpns@13.39.72.77:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@15.188.148.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@15.236.162.49:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
-trojan://telegram-id-privatevpns@15.236.82.47:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@15.237.4.132:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
