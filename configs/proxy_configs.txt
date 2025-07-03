@@ -4,13 +4,13 @@ wireguard://AAjAimHtvRab2NR6anTejpfOQRG2fekjom1SLJzNuUU%3D@188.114.96.158:928?ad
 
 wireguard://AIZQyzeaYythtjrrcZGRiLfSzlu75BB1d89LE5EZGHE%3D@188.114.99.147:946?address=172.16.0.2%2F32&reserved=243%2C175%2C242&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-06-30 18:00
 
-wireguard://ILaN9ZnVEH3OCZIRrAVulRZ1s92CdLgLyvX%2BWFSgVUk%3D@188.114.98.239:955?address=172.16.0.2%2F32&reserved=78%2C218%2C211&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-06-27 18:04
-
 wireguard://MNkafOOzIDFctR5YhkvJ2xuLVpT3MFSyX8AmxBsSi1s%3D@188.114.99.228:968?address=172.16.0.2%2F32&reserved=68%2C102%2C197&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-06-29 10:04
 
 wireguard://UBP9oODHZgtQE3f%2B8954bUgYVQWEkRKIQoxBj25O42M%3D@188.114.99.195:928?address=172.16.0.2%2F32&reserved=235%2C144%2C134&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-06-30 10:00
 
 wireguard://UDfOChnzlFXOkCNHGq%2FLZbGzOncvamapqwqaFazMp2M%3D@188.114.98.138:987?address=172.16.0.2%2F32&reserved=141%2C130%2C130&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-06-28 18:04
+
+wireguard://UEdey%2Bezqnu43q3u3AokkB%2FvcbR8K%2FRY%2Bbgfr4Q8EEw%3D@188.114.96.239:946?address=172.16.0.2%2F32&reserved=34%2C249%2C104&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-07-02 18:01
 
 wireguard://UEjkz4yunmT1GbIPdQI0rvHaX4Nv75QvcjUFJ0nDm2k%3D@188.114.99.130:942?address=172.16.0.2%2F32&reserved=160%2C89%2C172&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-07-01 10:00
 
@@ -58,7 +58,9 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.142.120.134:80?path=Telegram%3A%
 
 vless://be8cf788-f546-462d-a7af-bd2505873976@ping.amirhossein.info:8443?path=%2FTelegram%40Green_WPN%40Vijra_dev%2F%3Fed%3D2560&security=&encryption=none&host=ping.amirhossein.info&fp=chrome&type=ws#%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7
 
-vmess://eyJhZGQiOiJlbG1hLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmEzMjYzZTItODkxYy00NDQ2LWI0NzQtYThjNjNhY2I2ZTI1IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcy03NjA3Iiwic2N5IjoiYXV0byIsInNuaSI6IjFmZFNOQTExOTIyODkyOE9wUzJzbVRhQjIyOGFBc0REc2QxZWExMTA0MjM4MTQ0OTUuMS1zZW5hdG9yLmluZm8iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon31
+vmess://eyJhZGQiOiAiMTg1LjIwMS40OS42OCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJmYW5hcC1pbmZyYS5jb20iLCAiaWQiOiAiZmZlY2UyYTktMDI5Ni00NmE5LThkYjgtNzQyZDI5ZDI0MGZmIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9zdGF0aWMvY3NzL2pxdWVyeS9KRnhQYW1KTU5DWW1aVnh6SWt0R1lDNXJRVDB1V1M5MlhDczdLbDFqWmlreFRUaFFSQ29sRm50c0pESjRFelFvTWpFRkdGZ1ZiMXMwYkJ0T0UxRjJaUW9XIiwgInBvcnQiOiAiNDgwODYiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVdTLU5BIFx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyBJUi0xODUuMjAxLjQ5LjY4OjQ4MDg2IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon31
+
+vmess://eyJhZGQiOiJlbG1hLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmEzMjYzZTItODkxYy00NDQ2LWI0NzQtYThjNjNhY2I2ZTI1IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcy03NjA3Iiwic2N5IjoiYXV0byIsInNuaSI6IjFmZFNOQTExOTIyODkyOE9wUzJzbVRhQjIyOGFBc0REc2QxZWExMTA0MjM4MTQ0OTUuMS1zZW5hdG9yLmluZm8iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon32
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 
