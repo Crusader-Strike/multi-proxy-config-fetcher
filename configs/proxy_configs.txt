@@ -8,8 +8,6 @@ wireguard://AIZQyzeaYythtjrrcZGRiLfSzlu75BB1d89LE5EZGHE%3D@188.114.99.147:946?ad
 
 wireguard://MItlP4xJRnInqgkE6STUcdX1P2GSakmWqJzylfptG2M%3D@188.114.96.85:903?address=172.16.0.2%2F32&reserved=155%2C190%2C26&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-07-02 21:01
 
-wireguard://UBP9oODHZgtQE3f%2B8954bUgYVQWEkRKIQoxBj25O42M%3D@188.114.99.195:928?address=172.16.0.2%2F32&reserved=235%2C144%2C134&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-06-30 10:00
-
 wireguard://UEdey%2Bezqnu43q3u3AokkB%2FvcbR8K%2FRY%2Bbgfr4Q8EEw%3D@188.114.96.239:946?address=172.16.0.2%2F32&reserved=34%2C249%2C104&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-07-02 18:01
 
 wireguard://UEjkz4yunmT1GbIPdQI0rvHaX4Nv75QvcjUFJ0nDm2k%3D@188.114.99.130:942?address=172.16.0.2%2F32&reserved=160%2C89%2C172&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-07-01 10:00
@@ -26,9 +24,11 @@ wireguard://gGUBhzmkTBFhb8E8P2%2B4gN%2FugT%2BxcYn5DZqoMGOG%2FUs%3D@188.114.96.15
 
 wireguard://gL56Nf%2BMKqDTOSiZuEibFQ71H2ErJvjcIbyiNayg%2FVs%3D@188.114.97.25:988?address=172.16.0.2%2F32&reserved=196%2C127%2C135&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-07-04 21:02
 
+wireguard://mOo%2BSK8u0th7%2BatyDg%2BgaH6fDZqzyxmXX1Bb1ScRDUc%3D@188.114.97.239:943?address=172.16.0.2%2F32&reserved=195%2C185%2C11&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-07-05 10:02
+
 wireguard://sPOIbZ6b6tJOxBbt5LR1PFV0EKKqgSWK0uRMrGi0NHk%3D@188.114.99.30:1002?address=172.16.0.2%2F32&reserved=40%2C5%2C44&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-07-03 18:01
 
-vless://2e671ca5-32a0-40e4-94a0-c2655f263a88@5.255.120.217:80?mode=auto&path=%2Fpwp&security=reality&encryption=none&pbk=C4LNbOB3Ar0cntu528Jtn5ivsMZhyk9tkuAlU-jeCio&host=bleep.global.ssl.fastly.net&fp=chrome&spx=%2F&type=xhttp&sni=journalofbigdata.springeropen.com&sid=8c#All%20net%20telegram%3A%20%40ultrasurf_12
+vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.100:54080?security=&encryption=none&host=cloud.ir&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7
 
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.145.219:443?security=none&encryption=none&host=zula.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#https%3A%2F%2Ft.me%2Fvip_vpn_2022
 
@@ -42,21 +42,21 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.47:443?security=none&encr
 
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.83.138:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40VPN66&headerType=http&type=tcp#https%3A%2F%2Ft.me%2Fvip_vpn_2022
 
-vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?mode=stream-one&path=%2Ftas&security=tls&alpn=h2&encryption=none&host=ali.tas-bazi.com&fp=firefox&type=xhttp&sni=ali.tas-bazi.com#All%20net%20telegram%3A%20%40ultrasurf_12
+vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B7%F0%9F%87%BA
 
-vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?mode=stream-one&path=%2Ftas&security=tls&alpn=h2&encryption=none&host=mahsa.tas-bazi.com&fp=firefox&type=xhttp&sni=mahsa.tas-bazi.com#All%20net%20telegram%3A%20%40ultrasurf_12
+vless://5cfba4ac-105a-452a-ac10-88b1adf784ee@accounting.vinamarketcenter.ir:443?security=reality&encryption=none&pbk=T7Cwk-B3EvZqqRywIgN_TNotJiUOXYUI9bHqYKPnTi0&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tgju.org&sid=105e89ba3d2a1c3b#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
-vless://5586c2a9-c92c-4974-9b70-ca44622c6c8c@151.101.3.8:80?path=%2Fcontainers%2Ffi&security=none&encryption=none&host=tsvCY5W4AP61qVbo.net&type=ws#All%20net%20telegram%3A%20%40ultrasurf_12 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+vless://68fd2dc5-b1fc-49b0-8ff6-d070133ee270@104.16.53.11:2053?path=%2Fcontainers%2Fde&security=tls&encryption=none&host=ah15.ai351.com&type=ws&sni=ah15.ai351.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
+
+vless://6938efdb-b699-464d-8098-ae35b886b5c7@45.82.249.42:8443?path=%2Fvless%2F&security=tls&encryption=none&type=ws&sni=pq.chile1.09vpn.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%B1
 
 vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.130.239:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#https%3A%2F%2Ft.me%2Fvip_vpn_2022
 
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.199.137:443?security=&encryption=none&host=zula.ir%2F%3FTELEGRAM%40ShadowProxy66&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.147.22:8443?path=%2FTelegram%40V2ray_Alpha%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=UuhUHYygESDfgh.uYhJhGVgfCjgujhbUiLbVFdXDXM.XyZ&fp=randomized&type=ws&sni=UUHuhyYgESDfgh.UyHjhgvgFCjgujhBuILbVFDXdxM.xYZ#All%20net%20telegram%3A%20%40ultrasurf_12
+vless://7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AC%F0%9F%87%A7
 
-vless://bf4d1d83-91eb-4f7e-990f-3ca764eac4bd@www.venzo.com.tr:443?path=%2Fhajmi%3Fed%3D2050&security=tls&encryption=none&host=nb-de.nitter.ir&type=ws&sni=nitter.ir#All%20net%20telegram%3A%20%40ultrasurf_12
-
-vless://telegram-id-ArV2ray@104.18.26.90:80?path=%2F-Arfilter%40Arfilter-TEL--%40Arfilter-TEL--%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL--%40Arfilter%3Fed%3D80&security=none&encryption=none&host=www.speedtest.net.a.3.speedtest2029.com.&type=ws#All%20net%20telegram%3A%20%40ultrasurf_12
+vless://d03d2ff3-0b28-4c6b-bab5-4bfac274aa91@104.26.12.31:8080?path=%2F&security=&encryption=none&host=0613.heweiyi.dpdns.org&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBmcmVld2lyZWd1YXJkIiwNCiAgImFkZCI6ICIxOTkuMzQuMjMwLjE4NyIsDQogICJwb3J0IjogIjgwIiwNCiAgImlkIjogInRlbGVncmFtLWNoYW5uZWwtZnJlZXdpcmVndWFyZCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiUTQuMTlrQWxBLmNvIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
 
@@ -98,6 +98,8 @@ trojan://telegram-id-directvpn@13.37.76.128:22223?security=tls&alpn=http/1.1&hea
 
 trojan://telegram-id-directvpn@52.29.32.68:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
+trojan://telegram-id-directvpn@63.177.35.173:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
 trojan://telegram-id-privatevpns@13.37.201.250:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@13.37.76.128:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
@@ -105,8 +107,6 @@ trojan://telegram-id-privatevpns@13.37.76.128:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@15.237.70.229:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@18.199.109.12:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
-trojan://telegram-id-privatevpns@3.68.63.67:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 trojan://telegram-id-privatevpns@3.73.30.42:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
