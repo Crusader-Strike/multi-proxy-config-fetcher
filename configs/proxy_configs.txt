@@ -106,7 +106,7 @@ trojan://Bw5Mz7QkVp@45.63.94.101:443?security=tls&type=tcp&sni=z-v2-077954.kaili
 
 trojan://NISHIKUITAN111@104.16.80.174:443?#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1▫️️ سرور 2:
 
-trojan://blue2024@172.67.135.57:443?security=tls&type=tcp&sni=ta.promote.icu#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1▫️️ سرور 4:
+trojan://naEX%5Dg*qw%40MT%26lFz@104.21.96.1:2087?security=tls&type=ws&sni=jOinMAhdIsErvEr-53k.pAGeS.Dev&path=/trb6oyXIzrlytDBNlm?ed=2560&host=joinmahdiserver-53k.pages.dev#freevpn
 
 trojan://telegram-id-directvpn@18.196.7.59:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
