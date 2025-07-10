@@ -32,8 +32,6 @@ vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.155:443?security=none&enc
 
 vless://1c88c964-a039-4c9a-b1e5-5e93eef57fd8@91.107.154.77:2020?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%E2%9C%85%40FreakConfig
 
-vless://22477fe4-249e-4c18-8986-74b0f1f0657e@vip1.proxystore11.news:2052?type=xhttp&path=%2Fprx11&host=&mode=auto&security=reality&pbk=-4S95rjoZIG_AeUxIlwedx89e7C_X4jnePY3RsiF4io&fp=chrome&sni=vultr.com&sid=f8fcb589&spx=%2F#%F0%9F%87%B3%F0%9F%87%B1+prx11+%F0%9F%8C%BA%E2%9A%A1%EF%B8%8F%F0%9F%94%A5 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
 vless://350ba876-0706-4525-b342-f70062cb24f8@172.67.204.84:8080?security=none&type=ws&host=seyyed.webdade.ip-ddns.com&path=%2Ftelegram---VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram----VPNCUSTOMIZE%3Fed%3D2048#socks
 
 vless://353ae6e9-b8b8-41eb-bf45-cd2bcd9adb61@rose1.camellia2.shop:1991?security=none&encryption=none&host=bama.ir&headerType=http&type=tcp#%E2%9C%85%40FreakConfig
@@ -52,15 +50,15 @@ vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@185.133.125.8:19151?security=none&e
 
 vless://a6bc389a-80df-43e4-adbc-e9d6ae018c43@library98.ir:54?path=%2F&security=none&encryption=none&type=ws#%E2%9C%85%40FreakConfig
 
-vless://c7ce02e8-a47a-416d-97c0-5508b29b69a9@xpanel-ir.panelfreedom.com:2092?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#socks
-
 vless://cd45501e-52ec-4584-affe-f12f9a5a3aeb@104.22.14.116:443?security=tls&sni=lucky.cepu.us.kg&type=ws&host=lucky.cepu.us.kg#freevpn
+
+vless://d5b266bc-0db2-4c9b-8c3e-ead91698db99@99823232.webnama.com.tr:1517?security=none&type=tcp&headerType=http&path=%2F&host=speedtest.net#mtproto
 
 vless://e11e467c-415c-4545-8973-f7d4cae6bccf@213.176.65.192:443?path=%2Flogin%2Fazaronline.com%2F%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=chrome&type=httpupgrade&sni=mehrab.mojtabajeab.ir#V2rayNG%20x%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-vmess://ewogICAgImFkZCI6ICJTU1N4WGN2RnRZLjQ0NDc1Mi5YeXoiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJTU1N4WGN2RnRZLjQ0NDc1Mi5YeXoiLAogICAgImlkIjogIjUxMmQ5Njc0LWRiMTItNDRjYS1hMWI1LTY1NDI0NDU0OWI2NSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi91aUF4dkg2T2tWazBWQ2ZhN2RYM0pJcllrN3ptIiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE3Mi42Ny4xNTcuMjU0LTUwNjgiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJzc3N4eGN2ZnR5LjQ0NDc1Mi54eXoiCn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon31
+vmess://ewogICAgImFkZCI6ICJTU1N4WGN2RnRZLjQ0NDc1Mi5YeXoiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJTU1N4WGN2RnRZLjQ0NDc1Mi5YeXoiLAogICAgImlkIjogIjUxMmQ5Njc0LWRiMTItNDRjYS1hMWI1LTY1NDI0NDU0OWI2NSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi91aUF4dkg2T2tWazBWQ2ZhN2RYM0pJcllrN3ptIiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE3Mi42Ny4xNTcuMjU0LTUwNjgiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJzc3N4eGN2ZnR5LjQ0NDc1Mi54eXoiCn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon30
 
-vmess://eyJ2IjoiMiIsInBzIjoiX+S4reWbvSIsImFkZCI6IjEyMC4yMzIuMTUzLjEyMSIsInBvcnQiOiI1OTIyMiIsInR5cGUiOiJub25lIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon32
+vmess://eyJ2IjoiMiIsInBzIjoiX+S4reWbvSIsImFkZCI6IjEyMC4yMzIuMTUzLjEyMSIsInBvcnQiOiI1OTIyMiIsInR5cGUiOiJub25lIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon31
 
 vmess://eyJhZGQiOiIxOTMuMTUxLjE1MS45MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhZjVhMGQwYy1jODk4LTRhNTEtYmE2YS00NzE3OWQ0ODNlNDEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjUyMjYyIiwicHMiOiLinIVARnJlYWtDb25maWciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
