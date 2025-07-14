@@ -28,15 +28,9 @@ wireguard://sIuKE%2BrhX61jkwzmj8nIqo8gdorn3CaIH9A5%2BSyotn8%3D@188.114.98.173:10
 
 wireguard://uHyhiUfEn2KQy525HO4nxANToqAcnnBBQiCrnHvQKXk%3D@188.114.96.192:880?address=172.16.0.2%2F32&reserved=119%2C149%2C12&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-07-10 21:00
 
-vless://0cc731b9-0375-4590-aeaa-7e2611a149fe@104.21.36.57:443?path=%2Fwsv%2F0cc731b9-0375-4590-aeaa-7e2611a149fe&security=tls&encryption=none&host=black.fullmargintraders.com&fp=firefox&type=ws&sni=black.fullmargintraders.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
+vless://215d71a9-0047-4600-9240-7c3b86b62313@46.31.76.3:80?mode=auto&path=%2Fpwpw&security=reality&encryption=none&pbk=oTX6mQJYxkmmdF7Rq_stAKX_hYoOMXGaWmoblFl2zgo&host=bleep.global.ssl.fastly.net&fp=chrome&spx=%2F&type=xhttp&sni=journalofbigdata.springeropen.com&sid=5942e2#hiddify
 
-vless://48f477f3-906a-4bb6-be96-8201d8a62a6d@104.21.36.57:443?path=%2Fwsv%2F48f477f3-906a-4bb6-be96-8201d8a62a6d&security=tls&encryption=none&host=banana.fullmargintraders.com&fp=firefox&type=ws&sni=banana.fullmargintraders.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
-
-vless://4c835bff-4f4d-4608-bb21-120099089688@104.21.36.57:443?path=%2Fwsv%2F4c835bff-4f4d-4608-bb21-120099089688&security=tls&encryption=none&host=orange.fullmargintraders.com&fp=firefox&type=ws&sni=orange.fullmargintraders.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
-
-vless://4d89daf8-83c1-497d-af73-0d0033daadd8@104.21.36.57:443?path=%2Fwsv%2F4d89daf8-83c1-497d-af73-0d0033daadd8&security=tls&encryption=none&host=psto.fullmargintraders.com&fp=firefox&type=ws&sni=psto.fullmargintraders.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
-
-vless://59171a5a-c42c-47be-aaf1-cbaefcc5a07d@104.21.36.57:443?path=%2Fwsv%2F59171a5a-c42c-47be-aaf1-cbaefcc5a07d&security=tls&encryption=none&host=sample.fullmargintraders.com&fp=firefox&type=ws&sni=sample.fullmargintraders.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
+vless://2a11c595-935d-4e1b-81d4-ab8dd1e10bff@tgju.org:80?encryption=none&security=none&type=ws&host=DECENt-ReFerEnCE.ZUlAir.oRG.&path=%2F%3Fed%3D2048#freevpn
 
 vless://69b65602-3fd8-492a-9ffc-80897cfc2273@mci.dl101movis.ir:80?mode=auto&path=%2FGaMeOpTiMiZeR%3Fed%3D2048&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%2C%20%22xmux%22%3A%20%7B%22maxConcurrency%22%3A%20%2216-32%22%2C%20%22maxConnections%22%3A%200%2C%20%22cMaxReuseTimes%22%3A%20%2264-128%22%2C%20%22cMaxLifetimeMs%22%3A%200%2C%20%22hMaxRequestTimes%22%3A%20%22800-900%22%2C%20%22hKeepAlivePeriod%22%3A%200%7D%7D&host=sudo2011.ir&type=xhttp#%F0%9F%87%A6%F0%9F%87%BFtelegram%20%E2%9E%A0%20%40v2rayNG_Matsuri
 
@@ -48,15 +42,7 @@ vless://69b65602-3fd8-492a-9ffc-80897cfc2273@speedy.mooo.info:80?mode=auto&path=
 
 vless://69b65602-3fd8-492a-9ffc-80897cfc2273@speedy.mooo.info:80?mode=auto&path=%2FGaMeOpTiMiZeR%3Fed%3D2048&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%2C%20%22xmux%22%3A%20%7B%22maxConcurrency%22%3A%20%2216-32%22%2C%20%22maxConnections%22%3A%200%2C%20%22cMaxReuseTimes%22%3A%20%2264-128%22%2C%20%22cMaxLifetimeMs%22%3A%200%2C%20%22hMaxRequestTimes%22%3A%20%22800-900%22%2C%20%22hKeepAlivePeriod%22%3A%200%7D%7D&host=sudo2013.ir&type=xhttp#%F0%9F%87%AE%F0%9F%87%B3telegram%20%E2%9E%A0%20%40v2rayNG_Matsuri Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-vless://6c11247b-6078-461a-93d5-22e4df284e6d@104.21.36.57:443?path=%2Fwsv%2F6c11247b-6078-461a-93d5-22e4df284e6d&security=tls&encryption=none&host=mirror.fullmargintraders.com&type=ws&sni=mirror.fullmargintraders.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
-
-vless://6c37a0d2-3cc8-48ae-98e3-996f4e4f75dc@31.97.47.248:40444?security=reality&encryption=none&pbk=GJiZKVIVsg4fH4Gdic4WeDqdcA4Rcc3XTQj9QzdLR2E&headerType=&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=c335ccde845adf#%F0%9F%87%A9%F0%9F%87%AA+prx11+%F0%9F%8C%BA%F0%9F%9B%A1%EF%B8%8F%F0%9F%8C%9F Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
-vless://6f6e8f09-c1b3-48fd-ab00-18f921d875ef@104.21.36.57:443?path=%2Fwsv%2F6f6e8f09-c1b3-48fd-ab00-18f921d875ef&security=tls&encryption=none&host=profit.fullmargintraders.com&fp=firefox&type=ws&sni=profit.fullmargintraders.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
-
-vless://7f1c42b8-069d-4fbe-8cdc-0fc1a131c8a8@104.21.36.57:443?path=%2Fwsv%2F7f1c42b8-069d-4fbe-8cdc-0fc1a131c8a8&security=tls&encryption=none&host=avtice.fullmargintraders.com&fp=firefox&type=ws&sni=avtice.fullmargintraders.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
-
-vless://d50f50ef-20ff-47a1-a922-f476c2b83eb4@carrot.bitiboot.com:443?security=reality&encryption=none&pbk=XIDvViESjfi-zRq4bdvHK7EyeT7vjJcA_MZO0QGTFhI&headerType=none&fp=chrome&type=tcp&sni=analytics.google.com&sid=7fb3b0#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.91.249.160:2222?security=none&type=tcp#freevpn
 
 vmess://eyJhZGQiOiJucG1qcy5jb20iLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiUTQuMTlrQWxBLmNvIiwiaWQiOiJ0ZWxlZ3JhbS1jaGFubmVsLWZyZWV3aXJlZ3VhcmQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiYmUgc2hvbWEgbmFoYXIgZGFkYW4/Iiwic2N5IjoiYXV0byIsInNuaSI6IlE0LjE5a0FsQS5jbyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
@@ -66,23 +52,21 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5a1ZjYVduYmJFZHFuOWk3RXVOUkY3@94.159.96.245:
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@16.24.198.86:443#freevpn
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@74.177.119.76:443#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%9F%A2%20%7C%20ss%20%7C%20%40v2raych%20%7C%2015 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPRGhtWQ@91.108.248.10:8388#%F0%9F%87%B5%F0%9F%87%B1%20Warsaw%2C%2014%2C%20Poland%20%287%29 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOTk0YzI2Yi0zM2I3LTQ4MmItYjczMy1hYzc4OGZmZDQ4ZWQ@sg-01.cloxynode.com:35515#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%283%29 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-172.187.105.25-0300 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
 ss://YWVzLTEyOC1nY206cng4OGJCMHd4dUEwMlNhaGdDYlNCS0JaaG1LVzBua1drUGFXYzZsVlI1VT0@91.99.237.255:80#%F0%9F%87%B3%F0%9F%87%B1%20Eygelshoven%2C%20LI%2C%20The%20Netherlands Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.24:38388#%F0%9F%87%BB%F0%9F%87%B3%20VN-103.186.155.24%3A38388 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.18:38388#%F0%9F%87%BB%F0%9F%87%B3%20VN-103.186.155.18%3A38388 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@taifo01a.kbservice.club:443/?type=tcp&security=tls&sni=45.32.28.232#hiddify
+trojan://6557bf4a-852b-4a69-ad35-d53293386a13@54.179.28.159:443?sni=vn.mjt000.com&allowInsecure=0#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1▫️️ سرور 2:
+
+trojan://Aimer@154.219.5.255:2087?allowInsecure=1&sni=ngepx.ambercc.filegear-sg.me#freevpn
 
 trojan://Aimer@178.250.159.120:2053?allowInsecure=1&sni=ngepz.ambercc.filegear-sg.me#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1▫️️ سرور 3:
-
-trojan://Aimer@27.50.48.154:8443?allowInsecure=1&sni=ngepx.ambercc.filegear-sg.me#socks
-
-trojan://Aimer@77.232.140.114:2053?allowInsecure=1&sni=ngep.ambercc.filegear-sg.me#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1▫️️ سرور 4:
 
 trojan://Aimer@91.193.5.121:8443?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1▫️️ سرور 2:
 
@@ -96,11 +80,13 @@ trojan://telegram-id-directvpn@63.177.35.173:22223?security=tls&alpn=http/1.1&he
 
 trojan://telegram-id-privatevpns@13.37.140.67:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-trojan://telegram-id-privatevpns@3.65.114.120:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
 trojan://telegram-id-privatevpns@51.44.229.66:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#پروکسی
 
 trojan://telegram-id-privatevpns@51.44.36.244:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
+trojan://telegram-id-privatevpns@51.44.58.153:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+
+trojan://telegram-id-privatevpns@52.47.142.216:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 trojan://trojan@104.17.148.22:2053?security=tls&type=ws&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1▫️️ سرور 3:
 
