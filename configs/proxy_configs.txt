@@ -34,9 +34,9 @@ vless://7fb1a822-bd72-4a27-b987-89a4dd398142@188.245.167.113:465?security=none&e
 
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.20.206.74:3229?security=none&type=tcp#socks
 
-vless://ca6aded6-b684-4370-8c2c-0cecf47e6285@crm.snapfood.org:8080?path=/incredible-offers&security=none&encryption=none&host=fast.com&type=ws#Join+Telegram:@httpproxygo Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+vless://9368b093-d790-4096-9d8a-1265e82f9e2f@172.66.44.241:443?encryption=none&security=tls&sni=GgGgr.PaGES.dEV&fp=chrome&type=ws&host=GgGgr.PaGES.dEV&path=%2FgLHWGBXwDuMKHx2C%3Fed%3D2560#socks
 
-vless://e2403833-1d63-441b-be27-d2d309eecb65@145.249.115.53:443?type=tcp&security=reality&pbk=L8K_jdU-miVJuEf0lu9wCA8LMgHpOQjYLYVjzNEbRBA&fp=random&sni=pingless.com&sid=6622dfef0c43&spx=%2F&flow=xtls-rprx-vision#Atlanta%20VPN-and_4vsJ_userae2762d6 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.18.29.253:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=kawaiifreevpn-7ds.pages.dev&type=ws&sni=kawaiifreevpn-7ds.pages.dev#mtproto
 
 vless://f353fbf3-b6a1-4524-b916-f65bc077511f@s4.1dnt.k-l.cloud:80?encryption=none&security=none&type=xhttp&path=%2F123&mode=auto#i Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
@@ -54,9 +54,9 @@ vmess://eyJ2IjoiMiIsInBzIjoiX+S4reWbvSIsImFkZCI6IjQzLjI0Ny4xMzQuMTQ1IiwicG9ydCI6
 
 vmess://eyJhZGQiOiJucG1qcy5jb20iLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiUTQuMTlrQWxBLmNvIiwiaWQiOiJ0ZWxlZ3JhbS1jaGFubmVsLWZyZWV3aXJlZ3VhcmQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiYmUgc2hvbWEgbmFoYXIgZGFkYW4/Iiwic2N5IjoiYXV0byIsInNuaSI6IlE0LjE5a0FsQS5jbyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMVlHZkFNZzdiV2s@195.133.88.107:443#EVA_AUT Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSMlVHYWQ2MUZHTzU=@194.87.31.68:443#socks
+
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.20:38388 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon30
 
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.90.62.168:989#%F0%9F%87%B0%F0%9F%87%B7%20KR-154.90.62.168%3A989 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
@@ -70,9 +70,15 @@ trojan://Aimer@103.148.72.147:1443?allowInsecure=0&sni=ngepz.ambercc.filegear-sg
 
 trojan://Aimer@121.186.173.204:10022?sni=ngepy.ambercc.filegear-sg.me#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1▫️️ سرور 4:
 
+trojan://Aimer@176.124.223.40:2053?security=tls&type=ws&sni=ngepy.ambercc.filegear-sg.me&host=ngepy.ambercc.filegear-sg.me#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1▫️️ سرور 3:
+
 trojan://Aimer@188.164.159.214:2083?allowInsecure=1&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1▫️️ سرور 2:
 
 trojan://telegram-id-directvpn@15.188.254.128:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1▫️️ سرور 2:
+
+trojan://telegram-id-directvpn@51.44.36.244:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
+trojan://telegram-id-privatevpns@13.37.253.14:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@13.37.30.32:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
@@ -80,17 +86,11 @@ trojan://telegram-id-privatevpns@15.237.8.193:22222?security=tls&alpn=http/1.1&h
 
 trojan://telegram-id-privatevpns@18.192.94.201:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-trojan://telegram-id-privatevpns@3.74.220.92:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+trojan://telegram-id-privatevpns@3.74.100.225:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@35.180.106.215:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
-trojan://telegram-id-privatevpns@52.58.208.200:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
-trojan://vip@russia.com:443?encryption=none&security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=%2F%3Fed%3D2560#ss 🆔 @mtproxy_lists
+trojan://telegram-id-privatevpns@35.181.182.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://vip@www.csgo.com:443?encryption=none&security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=%2F%3Fed%3D2560#قندشکن
-
-trojan://vip@www.whatismyip.com:443?encryption=none&security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=%2F%3Fed%3D2560#ss 🆔 @mtproxy_lists
 
 trojan://ypDt8RkT7J@89.187.181.179:43118?encryption=none&security=tls&sni=89.187.181.179&type=raw&headertype=none#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1▫️️ سرور 4:
 
