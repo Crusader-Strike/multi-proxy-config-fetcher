@@ -80,8 +80,6 @@ trojan://02e653c9-7c93-46a9-999d-11834bd0c577@132.145.51.172:443?security=tls&fp
 
 trojan://3767107462583558144@warm-rabbit.goat627.mom:443?allowInsecure=0&sni=warm-rabbit.goat627.mom#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1▫️️ سرور 2:
 
-trojan://65abdb1c-1cdf-4630-a32b-8ae566b48c00@uk.fastsoonlink.com:40007?sni=uknode.soon.guru#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1▫️️ سرور 3:
-
 trojan://6AC378EE-C9AE-9D3C-3DD9-8C034898BE44@aexgzbgp01.114837322.xyz:14312?allowInsecure=0&sni=mpvideo.qpic.cn#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1▫️️ سرور 3:
 
 trojan://89f84d5e-4170-4c64-bc78-ac99953b103a@ae5f1a2a-fb75-4800.gttysd.com:50038?allowInsecure=0#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1▫️️ سرور 4:
@@ -97,6 +95,8 @@ trojan://telegram-id-directvpn@15.236.121.218:22223?security=tls&alpn=http/1.1&h
 trojan://telegram-id-directvpn@3.68.174.66:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 trojan://telegram-id-directvpn@52.47.136.181:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
+trojan://telegram-id-directvpn@52.47.64.164:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1▫️️ سرور 2:
 
 trojan://telegram-id-directvpn@63.179.32.181:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
