@@ -1,5 +1,7 @@
 wireguard://%2BJoXewbDcZ1hdM%2Fx2F9FIWxNXq3uYQinrzRxf4nt0mI%3D@188.114.96.237:968?wnoise=quic&address=172.16.0.2%2F32&reserved=78%2C111%2C187&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66+%28warp%29%C2%B3
 
+wireguard://2H82V3UFQ9z2DYuJxj49FM%2F%2BPIZwkXh3C55iUf%2FFnG8%3D@188.114.96.8:903?address=172.16.0.2%2F32&reserved=29%2C168%2C80&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-07-15 10:02
+
 wireguard://4Fa8haHlB1svUaiwU%2BqfKmElexz7aCvlUIrSSGxb1EI%3D@188.114.99.5:946?address=172.16.0.2%2F32&reserved=194%2C91%2C168&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-07-14 10:02
 
 wireguard://6HFhVcetnpDm0WS0LETEEPkUmBQzKPUpPYfRbdqDkn8%3D@[2606:4700:d0::8427:3e74:30ab:8ab6]:2371?wnoise=quic&address=172.16.0.2%2F32&reserved=8%2C29%2C164&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66+%28warp%29
@@ -7,8 +9,6 @@ wireguard://6HFhVcetnpDm0WS0LETEEPkUmBQzKPUpPYfRbdqDkn8%3D@[2606:4700:d0::8427:3
 wireguard://EGt3o3sU%2F0vVDKB%2FNAAB0Ku3L858wb7%2BKXKLSdLbj1A%3D@188.114.97.47:1387?wnoise=quic&address=172.16.0.2%2F32&reserved=114%2C206%2C28&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66+%28warp%29
 
 wireguard://KG8CV7%2FzwFm0zSFYOKGYqmP2Q9mDRiemev%2FIkHaRJ1Q%3D@188.114.98.228:2506?wnoise=quic&address=172.16.0.2%2F32&reserved=219%2C24%2C159&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66+%28warp%29کانفیگهای وایرگارد وارپتوی کلاینت NikaNg یا هرکلاینتی V2ray استفاده کنید برای ویندوز V2rayN Pro و Karing برای همه سیستم عاملها استفاده کنید برای ایفون بغیر karing میتونید از Streisand نیز استفاده کنید(متصل با همه اپراتورها)⚡️ @ShadowProxy66
-
-wireguard://KLjT%2FlfpBHkZrStAo9b6hvNo0q0aIpcy3xhPwrMufEc%3D@188.114.98.140:946?address=172.16.0.2%2F32&reserved=123%2C202%2C12&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-07-13 18:01
 
 wireguard://OAdv5lIC44Zh1WKVjF3YtVVKFZ2Irj94jI6QwNO8VWQ%3D@162.159.192.151:945?wnoise=quic&address=172.16.0.2%2F32&reserved=78%2C172%2C244&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66+%28warp%29
 
@@ -62,7 +62,7 @@ vmess://eyJhZGQiOiIxMzQuMTIyLjE4NC4xMDUiLCJhaWQiOiI2NCIsImFscG4iOiIiLCJmcCI6IiIs
 
 vmess://eyJhZGQiOiIyLjU2LjEyNS4xMDEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMTI3NWVhMTgtYmM5Yy00YmNiLWIzZmQtZmVlNzAyNzJlMTQzIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMzgwODgiLCJwcyI6IkBWMnJheU5HMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon32
 
-vmess://eyJhZGQiOiJlZTEuZGFhbGx5Z29sZC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWY1YTBkMGMtYzg5OC00YTUxLWJhNmEtNDcxNzlkNDgzZTQxIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1MjI2MiIsInBzIjoiQFRFSFJBTkFSR08g2obZhtmEINiq2YTar9ix2KfZhSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon33
+vmess://eyJhZGQiOiJkbjI5Lm11bHRpLXBhbmVsLmluZm8iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InZpcmdvb2wuaW8iLCJpZCI6ImExM2U2NzA4LWZjMmYtNGVmZC04NGIxLTdiNTBiMTM3NTYxNyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjMyNjQiLCJwcyI6ItmH2YTZhtivIPCfh7Pwn4exIEBWMnhheSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon33
 
 vmess://eyJhZGQiOiJwYW5lbDEuaXB5YXIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImM0YmQ5ZWJhLThhZWEtNGQ1ZS1hMmVlLWI1ZGU2NWFjMTRlMSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDI2ODQiLCJwcyI6IkBDYW5maWdWaXAg8J+NlSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon34
 
@@ -112,8 +112,6 @@ trojan://dcaf63a2-9f6f-4de4-b19f-e418bad8cf3d@s.1fengxin.xyz:16212?allowInsecure
 
 trojan://naEX%5Dg*qw%40MT&lFz@104.21.96.1:2087/?type=tcp&security=tls&sni=jOinMAhdIsErvEr-53k.pAGeS.Dev&allowInsecure=1#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1▫️️ سرور 3:
 
-trojan://telegram-id-privatevpns@13.38.215.131:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
 trojan://telegram-id-privatevpns@18.192.190.191:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@3.127.193.217:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1▫️️ سرور 2:
@@ -125,4 +123,6 @@ trojan://telegram-id-privatevpns@52.47.166.182:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@63.178.209.45:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@63.179.32.181:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+
+trojan://telegram-id-privatevpns@63.180.0.166:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
