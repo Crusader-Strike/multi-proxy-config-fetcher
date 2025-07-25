@@ -1,32 +1,32 @@
-wireguard://0AODAzDqmx1Cgg5VOdKzhe0PhPISRM0l82ZaL2cAU2c%3D@162.159.195.238:955?wnoise=quic&address=172.16.0.2%2F32&reserved=192%2C255%2C132&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-2&wnoisecount=15&mtu=1280#%40ShadowProxy66+%28warp%29
+wireguard://0Mc7DetzaUPA%2FJKQKzl1EsmO1Su7qjp6KDprwtDmRks%3D@188.114.98.146:987?address=172.16.0.2%2F32&reserved=216%2C149%2C238&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-07-24 21:02
 
-wireguard://4KZ6nixXL7mBB1YVTDj9Ya70q3C2Zsmf5KmsaRNAI0E%3D@188.114.97.135:945?wnoise=quic&address=172.16.0.2%2F32&reserved=63%2C12%2C205&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66+%28warp%29
+wireguard://ADG05X%2F2Eul6pdMut8wgP2HQFP27J0r2OVXFHC%2FF0kE%3D@188.114.98.236:946?address=172.16.0.2%2F32&reserved=113%2C246%2C79&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-07-20 21:00
 
-wireguard://6HFhVcetnpDm0WS0LETEEPkUmBQzKPUpPYfRbdqDkn8%3D@162.159.192.105:945?wnoise=quic&address=172.16.0.2%2F32&reserved=8%2C29%2C164&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66+%28warp%29
+wireguard://ALMEnB6DI3YutNKuv%2BvwIHVTjaMw%2BAF4G4hi%2FvHmYmc%3D@188.114.99.145:945?address=172.16.0.2%2F32&reserved=6%2C86%2C210&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-07-23 18:01
 
-wireguard://6HFhVcetnpDm0WS0LETEEPkUmBQzKPUpPYfRbdqDkn8%3D@188.114.98.143:4500?wnoise=quic&address=172.16.0.2%2F32&reserved=8%2C29%2C164&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66+%28warp%29
+wireguard://UFT4SHajohMWRtRhySopsUCji8oS8hJ9Iqk1oB9miUA%3D@188.114.99.231:946?address=172.16.0.2%2F32&reserved=51%2C21%2C135&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-07-22 21:01
 
-wireguard://CGkmrk8OF%2BXSCm%2BgUY72LZnWu%2FF%2B2OokQV8Va6rX8l4%3D@188.114.98.101:908?address=172.16.0.2%2F32&reserved=138%2C244%2C7&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-07-19 21:04
+wireguard://WJLNeoddwiS46WG2HY99ZmDOEodKkxrt2Ix6sDa8rUU%3D@188.114.99.26:908?address=172.16.0.2%2F32&reserved=198%2C235%2C38&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-07-24 18:02
 
-wireguard://GG4fNj%2FLVdQZp%2BUstpsyOujbMLWJTlCVYycbsAJbkkY%3D@188.114.98.231:945?wnoise=quic&address=172.16.0.2%2F32&reserved=102%2C175%2C224&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66+%28warp%29
+wireguard://YBj1hOEyLyCg%2BdXOUKDSNkByVtmxZTnYa31VJRlylE8%3D@188.114.99.54:968?address=172.16.0.2%2F32&reserved=243%2C82%2C145&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-07-22 10:01
 
-wireguard://OAdv5lIC44Zh1WKVjF3YtVVKFZ2Irj94jI6QwNO8VWQ%3D@162.159.192.151:945?wnoise=quic&address=172.16.0.2%2F32&reserved=78%2C172%2C244&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66+%28warp%29
+wireguard://aFqAi%2F33RLVfFqe7xoTnIJ90p4Btl5U7drl67CY5XXs%3D@188.114.96.86:908?address=172.16.0.2%2F32&reserved=2%2C15%2C175&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-07-21 18:00
 
-wireguard://aFqAi%2F33RLVfFqe7xoTnIJ90p4Btl5U7drl67CY5XXs%3D@188.114.96.86:908?wnoise=quic&address=172.16.0.2%2F32&reserved=2%2C15%2C175&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66+%28warp%29
+wireguard://eCssW84bxVBEg9AlFLr5PkO82kh07RsErUEbGdAcGWs%3D@188.114.97.20:880?address=172.16.0.2%2F32&reserved=51%2C145%2C223&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-07-21 10:00
 
-wireguard://gDQ%2BBjyoaHXa3a8T5V%2FKfoJRBa7Gtdw0YE6%2BjB4%2BnlU%3D@188.114.96.127:955?wnoise=quic&address=172.16.0.2%2F32&reserved=120%2C65%2C81&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66+%28warp%29
+wireguard://gIS4NznPZkRvz7ESfI7c9%2BEwoI0P6xEsSurGhWyrfGQ%3D@188.114.97.44:903?address=172.16.0.2%2F32&reserved=54%2C138%2C233&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-07-24 10:02
 
-wireguard://iNpNZiBukwh%2FVnRA97fL5VookAnaGknlhTr3FLY0anc%3D@162.159.195.51:4198?wnoise=quic&address=172.16.0.2%2F32&reserved=116%2C56%2C46&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66+%28warp%29کانفیگهای وایرگارد وارپتوی کلاینت NikaNg یا هرکلاینتی V2ray استفاده کنید برای ویندوز V2rayN Pro و Karing برای همه سیستم عاملها استفاده کنید برای ایفون بغیر karing میتونید از Streisand نیز استفاده کنید(متصل با همه اپراتورها)⚡️ @ShadowProxy66
-
-wireguard://kGG1rgSnxUCLwfyI9G0vLw0i%2F7tFeFKMXezWlf2hUFQ%3D@188.114.99.23:880?wnoise=quic&address=172.16.0.2%2F32&reserved=166%2C120%2C120&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66+%28warp%29
+wireguard://mBk%2BoPVo1j2nR%2BODGA2wLgh47khj673HaBxPE%2BxLsVQ%3D@188.114.98.192:987?address=172.16.0.2%2F32&reserved=18%2C37%2C160&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-07-23 10:01
 
 wireguard://oEFtKKNDmgbt%2Bu5RVx4NRAmTaDcvrOet2EfA4uKES2g%3D@188.114.99.147:943?address=172.16.0.2%2F32&reserved=113%2C6%2C81&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-07-20 10:05
 
-wireguard://oJIhWnllK6yh49l%2BMgW9Daeos91G1IOsET07AyG2rGk%3D@188.114.96.154:955?wnoise=quic&address=172.16.0.2%2F32&reserved=163%2C55%2C57&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66+%28warp%29
-
 wireguard://sFIG526ExvfVbayShzTePHn2F31vZKbYILOUQGgnf0Y%3D@188.114.98.223:943?address=172.16.0.2%2F32&reserved=214%2C255%2C118&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-07-20 18:00
 
-wireguard://wGIrp9rAnjEIN8xTLQeFtYEVnfbqPJnxrvanOeq0oH8%3D@188.114.98.126:1002?wnoise=quic&address=172.16.0.2%2F32&reserved=120%2C213%2C192&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66+%28warp%29
+wireguard://sI33hT0%2Fp3lC0w7ufFOa6Y%2FQzw9Z0bqTJ7Q1JZO%2FiUo%3D@188.114.97.155:943?address=172.16.0.2%2F32&reserved=193%2C223%2C222&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-07-22 18:01
+
+wireguard://wLAgiUQM5jdf3Gx%2BJJwADKgScQ2xrBUJvoFtuKGj0E0%3D@188.114.99.185:987?address=172.16.0.2%2F32&reserved=122%2C147%2C86&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-07-21 21:00
+
+wireguard://yJ7cYhJroCubcuiV7luB4wB7yz046yFM2GgBR%2FFuXWQ%3D@188.114.98.11:955?address=172.16.0.2%2F32&reserved=115%2C68%2C32&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#BB 2025-07-23 21:01
 
 vless://51a08234-9b5e-4e8d-804d-bd0a824bb809@185.100.159.28:16922?mode=gun&security=reality&encryption=none&pbk=xkCxFXlnv8uM2BeOF6MqOU6N-mY4J8ounFhwmRUO-xY&fp=chrome&spx=%2F&type=grpc&sni=cloudflare.com&sid=ccdce4#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig
 
@@ -70,13 +70,15 @@ vmess://eyJhZGQiOiIxNTQuMjYuMTI5LjI0NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 
 vmess://eyJhZGQiOiIxNTQuOTAuNDkuNTciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZmJmZmViNmItYjVlNS00Zjc3LTg4ODgtYzc5MTlmYmViMGFkIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1ODg2OCIsInBzIjoiQFNoYWRvd1Byb3h5NjYg8J+HrvCfh6kiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
+vmess://eyJhZGQiOiIyLjE4OC4yMTkuNDMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYjJlMzg2MjEtMDM1Yi00M2Y4LTg0YTUtZTkyMTYwNzYyZmMzIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4NDQzIiwicHMiOiJAU2hhZG93UHJveHk2NiDwn4eu8J+HtyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
+
 vmess://eyJhZGQiOiIyLjE4OC4yMTkuNDMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYjJlMzg2MjEtMDM1Yi00M2Y4LTg0YTUtZTkyMTYwNzYyZmMzIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4NDQzIiwicHMiOiJDaGFubmVsIGlkOiBAU2hhZG93UHJveHk2NiDwn4eu8J+HtyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
 
 vmess://eyJhZGQiOiJ3d3cubWV0ZXIubmV0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJibGF6ZS1nZXItMjQ4LmJsYXplY2xvdWRtYWluLnNpdGUiLCJpZCI6ImMyMDhlMGFlLTZmNmQtNDc0NS05OWRhLTQ0YTQ0NzQ0YzUzMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3NydD9lZFx1MDAzZDI1NjAiLCJwb3J0IjoiMjA4MyIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5NjYg8J+HqPCfh6YiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
-vmess://eyJhZGQiOiJ4dm9uLmZhc3QuaG9zdGluZy1pcC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRvZG9sa2FyYWp5b3VyLW5hbWUuZ2xvYmFsLnNzbC5mYXN0bHkubmV0IiwiaWQiOiJkOWEwNWFhOS00NDFmLTRlOTQtODQxMi1hZWE0NzYwMTc3NWYiLCJuZXQiOiJ4aHR0cCIsInBhdGgiOiIvd3M/ZWRcdTAwM2QyMDQ4IiwicG9ydCI6IjgwIiwicHMiOiJAdjJyYXluZ3N1cGJvdCB8IEBhaV9kdWV0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwidiI6IjIifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon39
+vmess://eyJhZGQiOiJ4dm9uLmZhc3QuaG9zdGluZy1pcC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRvZG9sa2FyYWp5b3VyLW5hbWUuZ2xvYmFsLnNzbC5mYXN0bHkubmV0IiwiaWQiOiJkOWEwNWFhOS00NDFmLTRlOTQtODQxMi1hZWE0NzYwMTc3NWYiLCJuZXQiOiJ4aHR0cCIsInBhdGgiOiIvd3M/ZWRcdTAwM2QyMDQ4IiwicG9ydCI6IjgwIiwicHMiOiJAdjJyYXluZ3N1cGJvdCB8IEBhaV9kdWV0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwidiI6IjIifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon40
 
-vmess://eyJhZGQiOiJmcmFua2Z1cnQwMy56Z2pvay5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZyYW5rZnVydDAzLnpnam9rLmNvbSIsImlkIjoiNGY3YzIyNDMtYTM4YS00NjcyLTk4M2ItZjEzNzhhZWUwYTdmIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6Itqp2KfZhtin2YQg2YXYpyDYr9ixINiq2YTar9ix2KfZhSBAQXNha19WcG4g8J+SmyIsInNjeSI6ImF1dG8iLCJzbmkiOiJmcmFua2Z1cnQwMy56Z2pvay5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon40
+vmess://eyJhZGQiOiJmcmFua2Z1cnQwMy56Z2pvay5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZyYW5rZnVydDAzLnpnam9rLmNvbSIsImlkIjoiNGY3YzIyNDMtYTM4YS00NjcyLTk4M2ItZjEzNzhhZWUwYTdmIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6Itqp2KfZhtin2YQg2YXYpyDYr9ixINiq2YTar9ix2KfZhSBAQXNha19WcG4g8J+SmyIsInNjeSI6ImF1dG8iLCJzbmkiOiJmcmFua2Z1cnQwMy56Z2pvay5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon41
 
 vmess://eyJhZGQiOiJwYW5lbDEuaXB5YXIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImM0YmQ5ZWJhLThhZWEtNGQ1ZS1hMmVlLWI1ZGU2NWFjMTRlMSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDI2ODQiLCJwcyI6IkhpQnlldlBOIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==#HiByeVPNN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
