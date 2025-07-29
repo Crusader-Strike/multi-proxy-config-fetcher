@@ -84,17 +84,13 @@ trojan://Aimer@185.204.109.190:8443?security=tls&sni=ngepy.ambercc.filegear-sg.m
 
 trojan://Aimer@199.34.228.187:443?allowInsecure=1&sni=ngepx.ambercc.filegear-sg.me#mtproto
 
+trojan://Aimer@91.217.139.227:8443?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1▫️️ سرور 3:
+
 trojan://Bw5Mz7QkVp@64.176.37.227:443?security=tls&type=tcp&sni=z-v2-082533.kailib.com#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1▫️️ سرور 3:
-
-trojan://RV%3CoAVP5SBk%25Q%40jE@104.21.64.1:2096?security=tls&type=ws&sni=JoInmaHdiservER-484.pagEs.DeV&path=/trJBYdoA2UbPASexk2?ed=2560&host=joinmahdiserver-484.pages.dev#قندشکن
-
-trojan://a38f4d99-8726-3484-8341-91eb513e7a3c@gy.58n.net:20130?allowInsecure=0&sni=x130.flybar.work#قندشکن
 
 trojan://b697183d-288b-40ab-98ae-8e3eb85f371c@185.146.173.69:443?security=tls&sni=uk1.trojanvpn.xyz&type=ws&host=uk1.trojanvpn.xyz&path=%2F#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1▫️️ سرور 4:
 
 trojan://blue2024@uriah.ns.cloudflare.com:443?allowInsecure=1&sni=ta.promote.icu#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1▫️️ سرور 3:
-
-trojan://bpb-trojan@104.17.116.87:443?security=tls&sni=bpb.my79801.com&type=ws&host=bpb.my79801.com&path=%2Ftr%3Fed%3D2560&fp=randomized&alpn=h3&allowInsecure=1#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1▫️️ سرور 2:
 
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FStupid-World%2F103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&type=ws&sni=vpn.stupidworld.web.id#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6♻️MTN ❤️ &...⚡️ @ShadowProxy66
 
@@ -103,4 +99,8 @@ trojan://telegram-id-directvpn@13.36.217.61:22223?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@15.236.74.230:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 trojan://telegram-id-directvpn@3.64.207.82:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1▫️️ سرور 3:
+
+trojan://telegram-id-privatevpns@54.93.49.62:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+
+trojan://telegram-id-privatevpns@63.178.125.101:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
