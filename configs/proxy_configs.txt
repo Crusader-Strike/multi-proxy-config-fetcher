@@ -70,8 +70,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8
 
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.53.81:443#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AC%F0%9F%87%A7
 
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.193.49.88:989#shadowsocks
-
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@104.192.226.106:989#%F0%9F%87%BA%F0%9F%87%B8%20US-104.192.226.106%3A989 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@104.17.148.22:8443?path=%2Ftrwidp0ENHXMUNX4bA%2Fc2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ&security=tls&alpn=http%2F1.1&host=invincible.fafa20.shop&fp=randomized&type=ws&sni=inVinciBLe.fafa20.sHop#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
