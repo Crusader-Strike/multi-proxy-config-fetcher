@@ -1,11 +1,11 @@
 {
-  "timestamp": "2025-07-31T09:29:22.620074",
+  "timestamp": "2025-07-31T10:26:04.970424",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
-      "retry_count": 1,
-      "success_rate": 50.0
+      "retry_count": 0,
+      "success_rate": 100.0
     },
     {
       "url": "https://t.me/s/ShadowProxy66",
@@ -34,8 +34,8 @@
     {
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
-      "retry_count": 0,
-      "success_rate": 100.0
+      "retry_count": 1,
+      "success_rate": 50.0
     },
     {
       "url": "https://t.me/s/IrdrapVPNnews",
