@@ -36,19 +36,19 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2Fproxyip%3D
 
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@www.bankonbasak.com:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=random&type=ws&sni=carlotta.shoorekeeper.cloudns.org#%40ShadowProxy66%F0%9F%87%A8%F0%9F%87%A6
 
-vless://527b6060-bf7c-41cc-a9bb-357bcda16a62@server271816966957306554.tas-bazi.com:443?mode=stream-one&path=%2Ffrf&security=none&encryption=none&type=xhttp#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-4.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#%40ShadowProxy66%20%F0%9F%87%B8%F0%9F%87%AC
 
 vless://6c11247b-6078-461a-93d5-22e4df284e6d@104.21.36.57:443?path=%2Fwsv%2F6c11247b-6078-461a-93d5-22e4df284e6d&security=tls&encryption=none&host=mirror.fullmargintraders.com&type=ws&sni=mirror.fullmargintraders.com#%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
+vless://6fe4cdfd-11a8-4d3b-94a4-4b735da523de@45.89.107.244:443?path=%2Fajnexnws&security=tls&encryption=none&type=ws#%40ShadowProxy66%20%F0%9F%87%B2%F0%9F%87%BE
+
 vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@senatorws-13.flightbean24.com:2052?path=%2F&security=&encryption=none&type=ws#%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
-vless://a4fd6b14-5c2d-4c5a-8bd6-319da73dd50d@alexde.hpcdn.info:80?path=%2F13225%2FhMMad&security=none&encryption=none&host=alexde.hpcdn.info&type=httpupgrade#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig
-
-vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.132.59:8443?mode=stream-one&path=%2Fxhttp&security=none&encryption=none&type=xhttp#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig
+vless://c28dfe26-a1cd-4ebf-b427-7b44f8c2f7e0@45.134.12.5:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=48720c#%40ShadowProxy66%20%F0%9F%87%B7%F0%9F%87%BA
 
 vless://e2403833-1d63-441b-be27-d2d309eecb65@145.249.115.53:443?type=tcp&security=reality&pbk=L8K_jdU-miVJuEf0lu9wCA8LMgHpOQjYLYVjzNEbRBA&fp=random&sni=pingless.com&sid=6622dfef0c43&spx=%2F&flow=xtls-rprx-vision#Atlanta%20VPN-and_4vsJ_userae2762d6 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-vless://e66beedb-dd44-47f0-baf8-7ba947d919d0@91.99.85.185:8443?mode=stream-one&path=%2Fxhttp&security=none&encryption=none&type=xhttp#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.222.98:8880?path=%2FuLF6HXZ7986oF7Yg%3Fed%3D2560&security=&encryption=none&host=vngsupply.ip-ddns.com&type=ws#%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?path=%2F1ycR2zb3KeELWRha%3Fed%3D2560&security=&encryption=none&host=VngSuPpLY.IP-Ddns.com&type=ws#%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
@@ -66,15 +66,11 @@ vmess://eyJ2IjoiMiIsInBzIjoiMSB8ICAxLjBNQi9zfDAlfE5ldGZsaXh8RGlzbi4uLiIsImFkZCI6
 
 vmess://eyJhZGQiOiIyMTYuMTczLjY5LjI1MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5MTM4MjA5Mi0yMzMwLTQ1NWItOGExYy05YzEyOWNmZTY2MWEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6Ijg0NDMiLCJwcyI6IkNoYW5uZWwgaWQ6IEBTaGFkb3dQcm94eTY2IPCfh7Hwn4e7Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 
-vmess://eyJhZGQiOiJubW9uZS5oamRmZ2hmYy5hc2lhIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJmaWxlLmRpbmd0YWxrLmNvbSIsImlkIjoiNTJjNDU3YmQtODk2Zi00YjQ1LWEwMTMtMGZiNGQxZTliZTlmIiwibmV0Ijoid3MiLCJwYXRoIjoiL21hcmtldD9lZFx1MDAzZDUxMiIsInBvcnQiOiI4MCIsInBzIjoiQERhaWx5X0NvbmZpZ3MiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon35
+vmess://eyJhZGQiOiJpbm5hLmNmZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiaW5uYS5jZmQiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+RifCfhpQgQFYyTkVUX0lSQU4iLCJzY3kiOiJhdXRvIiwic25pIjoiaW5uYS5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon35
 
-vmess://eyJhZGQiOiJwYW5lbDEuaXB5YXIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImM0YmQ5ZWJhLThhZWEtNGQ1ZS1hMmVlLWI1ZGU2NWFjMTRlMSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDI2ODQiLCJwcyI6IkBNb2Z0X3ZwbiDaqdin2YbYp9mEIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon36
+vmess://eyJhZGQiOiJubW9uZS5oamRmZ2hmYy5hc2lhIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJmaWxlLmRpbmd0YWxrLmNvbSIsImlkIjoiNTJjNDU3YmQtODk2Zi00YjQ1LWEwMTMtMGZiNGQxZTliZTlmIiwibmV0Ijoid3MiLCJwYXRoIjoiL21hcmtldD9lZFx1MDAzZDUxMiIsInBvcnQiOiI4MCIsInBzIjoiQERhaWx5X0NvbmZpZ3MiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon36
 
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WDB4SnM3Qm40eVh4ZVBiUWhmc0txYzBDaUFpNWE3dGNWNkdGUEN5WVduND06TGlXTStIK1NXTXJObllaaU9qcG1PeldNVzBCTVlDQnJMQzU3TzVVYitOcz0=@212.118.42.181:9260#trojan
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.157:8080#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-74.177.199.135-0299 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
@@ -82,9 +78,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMDYwNTUyNy0yOGU0LTQ0OWMtODBlZS01NjQyY2MxNmE
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.49:8080#socks
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig
-
 ss://YWVzLTI1Ni1nY206Tml6bkx2b0l1eQ@220.124.31.130:19378#%F0%9F%87%B0%F0%9F%87%B7%20Gunsan%2C%2045%2C%20South%20Korea Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
+trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org&allowInsecure=1&type=tcp&headerType=none#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1▫️️ سرور 4:
 
 trojan://Aimer@211.222.211.60:50000?allowInsecure=0&sni=ngepz.ambercc.filegear-sg.me#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1▫️️ سرور 4:
 
@@ -95,8 +91,6 @@ trojan://SSorg@206.238.237.118:8443?allowInsecure=1&sni=ssjj.esslh.filegear-sg.m
 trojan://UO2beikcWh@38.59.245.38:33261?allowInsecure=1#قندشکن
 
 trojan://blue2024@162.159.39.190:443?sni=td.promote.icu#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1▫️️ سرور 4:
-
-trojan://bpb-trojan@198.41.202.175:443?type=ws&sni=bpb.my79801.com&path=/tr&host=bpb.my79801.com#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1▫️️ سرور 3:
 
 trojan://bpb-trojan@94.242.228.50:443?allowInsecure=1&sni=bpb.my79801.com&type=ws&host=bpb.my79801.com&path=/tr#%F0%9F%86%94%20%40mtproxy_lists%20%3C%3C%3C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1▫️️ سرور 3:
 
